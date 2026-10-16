@@ -1,0 +1,958 @@
+{
+  "version": 64,
+  "date": "2026-10-16",
+  "rooms": [
+    {
+      "id": "aussen",
+      "title": "Haus & Garten",
+      "floor": "Außen",
+      "summary": "Fassaden, Dach, Carport und Außenbereiche im aktuellen Gesamtmodell.",
+      "facts": [
+        "PV-Anlage: 20 Module auf der Südwest-Dachfläche",
+        "Carport mit Begrünung und Abstellbereich",
+        "Terrasse mit Pergola; Garten als Planungsmodell"
+      ]
+    },
+    {
+      "id": "wohnen",
+      "title": "Wohnen & Essen",
+      "floor": "EG",
+      "summary": "Der gemeinsame Wohnbereich mit den zuletzt überarbeiteten Polstermöbeln und HAY-Stühlen.",
+      "facts": [
+        "ÄPPLARYD mit linker Récamiere, Lejde hellgrau",
+        "EKENÄSET: Kilanda hellbeige",
+        "Vier HAY AAC 26, zwei Tripp Trapp",
+        "ROSLEV 200 × 95 cm; persönliche Fotodekoration"
+      ]
+    },
+    {
+      "id": "kueche",
+      "title": "Küche",
+      "floor": "EG",
+      "summary": "Küchenzeilen, Insel und Übergang zum Essplatz.",
+      "facts": [
+        "Küchenaufteilung nach dem vorhandenen Planungsmodell",
+        "Fliesenspiegel und Arbeitsflächen im aktuellen Materialstand",
+        "Bodenfliesen 30 × 60 cm"
+      ]
+    },
+    {
+      "id": "flur-eg",
+      "title": "Flur & Treppe",
+      "floor": "EG",
+      "summary": "Ankommen, Schuhe und Garderobe.",
+      "facts": [
+        "STÄLL 96 × 17 × 90 cm; Schlüsselhalter 30 cm breit",
+        "TJUSIG-Sitzbank mit Familienfoto 60 × 45 cm darüber",
+        "A-Rack 40 cm; Tintenfisch 20 cm breit",
+        "Aktuelle Positionen aus Stand 63; Glastür bis zum modellierten Anschlag geöffnet"
+      ]
+    },
+    {
+      "id": "hwr",
+      "title": "Hauswirtschaftsraum",
+      "floor": "EG",
+      "summary": "Waschen, Stauraum und Haustechnik.",
+      "facts": [
+        "IKEA-Zeile mit HOLMARED-Arbeitsplatte",
+        "Siemens-Waschturm",
+        "Vaillant uniTOWER und Huawei-Speichersystem"
+      ]
+    },
+    {
+      "id": "bad-eg",
+      "title": "Duschbad",
+      "floor": "EG",
+      "summary": "Waschtisch, WC und Dusche im Erdgeschoss.",
+      "facts": [
+        "VIGOUR derby V3",
+        "Duschabtrennung an der 100-cm-Seite",
+        "Fliesen und Beleuchtung nach aktuellem Modell"
+      ]
+    },
+    {
+      "id": "arbeiten",
+      "title": "Arbeiten & Gäste",
+      "floor": "EG",
+      "summary": "Zwei Nutzungen desselben Raums: Alltag mit Rudergerät und Gästezimmer bei Besuch.",
+      "facts": [
+        "BEKANT 120 × 80 cm; KALLAX",
+        "Dell P2720DC, Dell-Laptop und Logitech-Peripherie",
+        "Dauphin speed-o",
+        "Alltag: Concept2 Model D auf Untermatte",
+        "Gäste: ROOM IN A BOX 140 × 200 cm; Tisch 82 cm hoch, Stuhl eingeschoben"
+      ]
+    },
+    {
+      "id": "kind-henrik",
+      "title": "Henriks Zimmer",
+      "floor": "OG",
+      "summary": "Schlafen, Spielen und Arbeiten unter der Dachschräge.",
+      "facts": [
+        "PÅHL: vorhandene Breite 128 cm",
+        "BRIMNES-Tagesbett",
+        "Fünf SMÅSTAD-Hängeschränke",
+        "Grüner DYVLINGE mit Kordbezug; TROFAST und KALLAX"
+      ]
+    },
+    {
+      "id": "kind-freja",
+      "title": "Frejas Zimmer",
+      "floor": "OG",
+      "summary": "Aktuelle Aufteilung mit Schreibtisch am Fenster.",
+      "facts": [
+        "MALM 140 × 200 cm",
+        "Roter STUVA: 60 × 53 × 193 cm",
+        "Rote Kiste: 89 × 49 × 48,5 cm",
+        "KALLAX 4 × 2 mit Holzarbeitsplatte",
+        "TROTTEN 160 × 80 cm; Interstuhl UPis1 weiß/blau"
+      ]
+    },
+    {
+      "id": "schlafen",
+      "title": "Schlafzimmer",
+      "floor": "OG",
+      "summary": "Doppelbett, PAX-Schränke und Arbeitsecke in der Nische.",
+      "facts": [
+        "MALM 180 × 200 cm",
+        "Nischenschrank PAX 150 cm ohne zusätzliches Endteil",
+        "Arbeitsecke mit HOLMARED-Platte 115 × 60 cm",
+        "Großer PAX mit grauen GULLABERG-Fronten"
+      ]
+    },
+    {
+      "id": "bad-og",
+      "title": "Familienbad",
+      "floor": "OG",
+      "summary": "Badewanne, Dusche und Waschtisch im Obergeschoss.",
+      "facts": [
+        "Dachschräge und Fenster nach Hausmodell",
+        "Fliesenabschluss über der Badewanne",
+        "Sanitärobjekte und Materialien im aktuellen Planungsstand"
+      ]
+    },
+    {
+      "id": "flur-og",
+      "title": "Galerie & Flur",
+      "floor": "OG",
+      "summary": "Treppenankunft und Verbindung der Räume.",
+      "facts": [
+        "Glasgeländer im aktuellen Modellstand",
+        "BARLAST-Beleuchtung",
+        "Dachschräge und Bodentreppenzugang"
+      ]
+    },
+    {
+      "id": "grundrisse",
+      "title": "Geschosse im Überblick",
+      "floor": "Übersicht",
+      "summary": "Gesamtzusammenhang der Räume und ihrer Einrichtung.",
+      "facts": [
+        "Orthografische Darstellungen ohne perspektivische Verzerrung",
+        "Das 3D-Modell dient der Planung und Visualisierung; kein Ausführungsplan"
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "aussen-standard-01",
+      "room": "aussen",
+      "title": "Gesamthaus · Nordost",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-02",
+      "room": "aussen",
+      "title": "Gesamthaus · Südwest",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-03",
+      "room": "aussen",
+      "title": "Südwest / Südost",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-04",
+      "room": "aussen",
+      "title": "Nordost / Nordwest",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-05",
+      "room": "aussen",
+      "title": "Carport · Zufahrt",
+      "lens": 35.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-06",
+      "room": "aussen",
+      "title": "Carport · Dachbegrünung",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-07",
+      "room": "aussen",
+      "title": "Garten von der Straße",
+      "lens": 45.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-08",
+      "room": "aussen",
+      "title": "Terrasse und Pergola",
+      "lens": 48.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-09",
+      "room": "aussen",
+      "title": "Dach und Photovoltaik",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-10",
+      "room": "aussen",
+      "title": "Fassade · Materialdetails",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "aussen-standard-11",
+      "room": "aussen",
+      "title": "Grundstück · Übersicht",
+      "lens": 45.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · korrigiertes Gestell und weichere Polster",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-02",
+      "room": "wohnen",
+      "title": "Sofa · Polstervolumen und Rahmen",
+      "lens": 28.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-03",
+      "room": "wohnen",
+      "title": "Sofa · Gewebe, Nähte und Falten",
+      "lens": 62.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-04",
+      "room": "wohnen",
+      "title": "Essplatz · vier überarbeitete AAC 26",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-05",
+      "room": "wohnen",
+      "title": "Wohnen und Essen",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-06",
+      "room": "wohnen",
+      "title": "EKENÄSET · Kilanda hellbeige",
+      "lens": 45.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-07",
+      "room": "wohnen",
+      "title": "Kilanda · Stoff und gebeizte Buche",
+      "lens": 65.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-09",
+      "room": "wohnen",
+      "title": "Fotoleisten",
+      "lens": 50,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-01",
+      "room": "kueche",
+      "title": "Küche · Übersicht",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-02",
+      "room": "kueche",
+      "title": "Küche · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-03",
+      "room": "kueche",
+      "title": "Insel und Essplatz",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-04",
+      "room": "kueche",
+      "title": "Spülbereich",
+      "lens": 28.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-05",
+      "room": "kueche",
+      "title": "Fliesenspiegel · Detail",
+      "lens": 50.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-06",
+      "room": "kueche",
+      "title": "Kochinsel",
+      "lens": 26.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-01",
+      "room": "flur-eg",
+      "title": "Vom Eingang · Schuhschrank und Bank",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-02",
+      "room": "flur-eg",
+      "title": "Eckgarderobe am HWR",
+      "lens": 23.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-03",
+      "room": "flur-eg",
+      "title": "STÄLL mit eurem Schlüsselhalter",
+      "lens": 23.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-04",
+      "room": "flur-eg",
+      "title": "Garderobenleiste und Kinderhaken",
+      "lens": 30.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-05",
+      "room": "flur-eg",
+      "title": "Flur vom Wohnbereich",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-06",
+      "room": "flur-eg",
+      "title": "Tintenfisch · Hakenhöhe ca. 120 cm",
+      "lens": 45.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-07",
+      "room": "flur-eg",
+      "title": "Anordnung im Erdgeschoss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-08",
+      "room": "flur-eg",
+      "title": "Treppe · Aufstieg",
+      "lens": 14.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-01",
+      "room": "hwr",
+      "title": "HWR · Blick vom Eingang",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-02",
+      "room": "hwr",
+      "title": "IKEA-Zeile und Siemens-Waschturm",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-03",
+      "room": "hwr",
+      "title": "Vaillant uniTOWER in der WP-Nische",
+      "lens": 23.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-04",
+      "room": "hwr",
+      "title": "Huawei-Speicher und Wechselrichter",
+      "lens": 26.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-05",
+      "room": "hwr",
+      "title": "HWR · Übersicht im Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-06",
+      "room": "hwr",
+      "title": "Waschmaschine, Verbinder und Trockner",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-07",
+      "room": "hwr",
+      "title": "HWR · Aufteilung nach Hausplan",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-01",
+      "room": "bad-eg",
+      "title": "Duschbad · Übersicht",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-02",
+      "room": "bad-eg",
+      "title": "Waschtisch",
+      "lens": 32.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-03",
+      "room": "bad-eg",
+      "title": "Dusche",
+      "lens": 20.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-04",
+      "room": "bad-eg",
+      "title": "Boden und Wand",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-05",
+      "room": "bad-eg",
+      "title": "Duschbad · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-eg-standard-06",
+      "room": "bad-eg",
+      "title": "Waschtisch · Detail",
+      "lens": 50,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "arbeiten-alltag-01",
+      "room": "arbeiten",
+      "title": "Gesamtansicht",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-02",
+      "room": "arbeiten",
+      "title": "Weitwinkel",
+      "lens": 16.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-03",
+      "room": "arbeiten",
+      "title": "Arbeitsplatz",
+      "lens": 26.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-04",
+      "room": "arbeiten",
+      "title": "Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-05",
+      "room": "arbeiten",
+      "title": "Vom Eingang",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-06",
+      "room": "arbeiten",
+      "title": "Bildschirm und Laptop",
+      "lens": 30.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-07",
+      "room": "arbeiten",
+      "title": "Concept2 · Lüfter und Halterung",
+      "lens": 35.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-alltag-08",
+      "room": "arbeiten",
+      "title": "Concept2 · Sitz und Fußplatten",
+      "lens": 45.0,
+      "projection": "perspective",
+      "variant": "alltag"
+    },
+    {
+      "id": "arbeiten-gaeste-01",
+      "room": "arbeiten",
+      "title": "Gesamtansicht",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "gaeste"
+    },
+    {
+      "id": "arbeiten-gaeste-02",
+      "room": "arbeiten",
+      "title": "Weitwinkel",
+      "lens": 16.0,
+      "projection": "perspective",
+      "variant": "gaeste"
+    },
+    {
+      "id": "arbeiten-gaeste-03",
+      "room": "arbeiten",
+      "title": "Arbeitsplatz",
+      "lens": 26.0,
+      "projection": "perspective",
+      "variant": "gaeste"
+    },
+    {
+      "id": "arbeiten-gaeste-04",
+      "room": "arbeiten",
+      "title": "Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "gaeste"
+    },
+    {
+      "id": "arbeiten-gaeste-05",
+      "room": "arbeiten",
+      "title": "Vom Eingang",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "gaeste"
+    },
+    {
+      "id": "arbeiten-gaeste-06",
+      "room": "arbeiten",
+      "title": "Bildschirm und Laptop",
+      "lens": 30.0,
+      "projection": "perspective",
+      "variant": "gaeste"
+    },
+    {
+      "id": "kind-henrik-standard-01",
+      "room": "kind-henrik",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-02",
+      "room": "kind-henrik",
+      "title": "Vom Fenster zur Spielecke",
+      "lens": 20.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-03",
+      "room": "kind-henrik",
+      "title": "Schreibtisch und Stauraum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-04",
+      "room": "kind-henrik",
+      "title": "Bett unter der Dachschräge",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-05",
+      "room": "kind-henrik",
+      "title": "DYVLINGE · Polster und Drehgestell",
+      "lens": 38.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-06",
+      "room": "kind-henrik",
+      "title": "Spielecke und Wandschränke",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-07",
+      "room": "kind-henrik",
+      "title": "Anordnung im Hausgrundriss",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-henrik-standard-08",
+      "room": "kind-henrik",
+      "title": "DYVLINGE · Kord und Knopfheftung",
+      "lens": 65.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-01",
+      "room": "kind-freja",
+      "title": "Vom Eingang · neue Aufteilung",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-02",
+      "room": "kind-freja",
+      "title": "Vom Fenster zum Bett",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-03",
+      "room": "kind-freja",
+      "title": "KALLAX 4 × 2 mit HOLMARED-Arbeitsplatte",
+      "lens": 21.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-04",
+      "room": "kind-freja",
+      "title": "TROTTEN und Interstuhl am Fenster",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-05",
+      "room": "kind-freja",
+      "title": "Gesamter Raum",
+      "lens": 15.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-06",
+      "room": "kind-freja",
+      "title": "Neue Anordnung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "kind-freja-standard-07",
+      "room": "kind-freja",
+      "title": "Bett · Detail",
+      "lens": 35,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-01",
+      "room": "schlafen",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-02",
+      "room": "schlafen",
+      "title": "Vom Fenster zur Nische",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-03",
+      "room": "schlafen",
+      "title": "MALM 180 × 200 unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-04",
+      "room": "schlafen",
+      "title": "PAX und Arbeitsecke",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-05",
+      "room": "schlafen",
+      "title": "Großer PAX mit grauen GULLABERG-Fronten",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-06",
+      "room": "schlafen",
+      "title": "Bambus-Arbeitsplatte in der Nische",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-07",
+      "room": "schlafen",
+      "title": "Aufteilung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "schlafen-standard-08",
+      "room": "schlafen",
+      "title": "Arbeitsecke · Detail ohne Endteil",
+      "lens": 40,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-01",
+      "room": "bad-og",
+      "title": "Bad · Übersicht",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-02",
+      "room": "bad-og",
+      "title": "Badewanne unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-03",
+      "room": "bad-og",
+      "title": "Dusche",
+      "lens": 23.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-04",
+      "room": "bad-og",
+      "title": "Waschtisch",
+      "lens": 32.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-05",
+      "room": "bad-og",
+      "title": "Boden und Wand",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-06",
+      "room": "bad-og",
+      "title": "Duschbereich · zweite Perspektive",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-standard-07",
+      "room": "bad-og",
+      "title": "Waschtisch · Detail",
+      "lens": 40,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-01",
+      "room": "flur-og",
+      "title": "Flur · Übersicht",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-02",
+      "room": "flur-og",
+      "title": "Flur · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-03",
+      "room": "flur-og",
+      "title": "Treppenankunft",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-04",
+      "room": "flur-og",
+      "title": "Blick die Treppe hinunter",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-05",
+      "room": "flur-og",
+      "title": "Treppenankunft · Geländerdetail",
+      "lens": 35,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-01",
+      "room": "grundrisse",
+      "title": "Erdgeschoss · Grundriss",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-02",
+      "room": "grundrisse",
+      "title": "Obergeschoss · Grundriss",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-03",
+      "room": "grundrisse",
+      "title": "Erdgeschoss · räumliche Übersicht",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-04",
+      "room": "grundrisse",
+      "title": "Obergeschoss · räumliche Übersicht",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    }
+  ]
+}
