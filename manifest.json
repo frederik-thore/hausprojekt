@@ -245,7 +245,7 @@
     {
       "id": "wohnen-standard-01",
       "room": "wohnen",
-      "title": "Wohnzimmer · korrigiertes Gestell und weichere Polster",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
       "lens": 24.0,
       "projection": "perspective",
       "variant": "standard"
@@ -253,23 +253,23 @@
     {
       "id": "wohnen-standard-02",
       "room": "wohnen",
-      "title": "Sofa · Polstervolumen und Rahmen",
-      "lens": 28.0,
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
       "projection": "perspective",
       "variant": "standard"
     },
     {
       "id": "wohnen-standard-03",
       "room": "wohnen",
-      "title": "Sofa · Gewebe, Nähte und Falten",
-      "lens": 62.0,
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },
     {
       "id": "wohnen-standard-04",
       "room": "wohnen",
-      "title": "Essplatz · vier überarbeitete AAC 26",
+      "title": "Essplatz und Übergang zum Wohnbereich",
       "lens": 24.0,
       "projection": "perspective",
       "variant": "standard"
@@ -285,16 +285,16 @@
     {
       "id": "wohnen-standard-06",
       "room": "wohnen",
-      "title": "EKENÄSET · Kilanda hellbeige",
-      "lens": 45.0,
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
       "projection": "perspective",
       "variant": "standard"
     },
     {
       "id": "wohnen-standard-07",
       "room": "wohnen",
-      "title": "Kilanda · Stoff und gebeizte Buche",
-      "lens": 65.0,
+      "title": "Laufweg am Essplatz und Terrassenzugang",
+      "lens": 22,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -309,8 +309,8 @@
     {
       "id": "wohnen-standard-09",
       "room": "wohnen",
-      "title": "Fotoleisten",
-      "lens": 50,
+      "title": "Essplatz und Wandgestaltung im Raum",
+      "lens": 20,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -349,8 +349,8 @@
     {
       "id": "kueche-standard-05",
       "room": "kueche",
-      "title": "Fliesenspiegel · Detail",
-      "lens": 50.0,
+      "title": "Küche im Zusammenhang mit dem Essbereich",
+      "lens": 22,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -405,8 +405,8 @@
     {
       "id": "flur-eg-standard-06",
       "room": "flur-eg",
-      "title": "Tintenfisch · Hakenhöhe ca. 120 cm",
-      "lens": 45.0,
+      "title": "Treppe und Garderobenwand im Zusammenhang",
+      "lens": 20,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -525,8 +525,8 @@
     {
       "id": "bad-eg-standard-06",
       "room": "bad-eg",
-      "title": "Waschtisch · Detail",
-      "lens": 50,
+      "title": "Duschbad · gesamte Raumaufteilung",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -573,24 +573,24 @@
     {
       "id": "arbeiten-alltag-06",
       "room": "arbeiten",
-      "title": "Bildschirm und Laptop",
-      "lens": 30.0,
+      "title": "Schreibtisch, Regal und Bewegungsfläche",
+      "lens": 18,
       "projection": "perspective",
       "variant": "alltag"
     },
     {
       "id": "arbeiten-alltag-07",
       "room": "arbeiten",
-      "title": "Concept2 · Lüfter und Halterung",
-      "lens": 35.0,
+      "title": "Trainingsfläche im Raum",
+      "lens": 16,
       "projection": "perspective",
       "variant": "alltag"
     },
     {
       "id": "arbeiten-alltag-08",
       "room": "arbeiten",
-      "title": "Concept2 · Sitz und Fußplatten",
-      "lens": 45.0,
+      "title": "Raum aus der gegenüberliegenden Ecke",
+      "lens": 16,
       "projection": "perspective",
       "variant": "alltag"
     },
@@ -637,8 +637,8 @@
     {
       "id": "arbeiten-gaeste-06",
       "room": "arbeiten",
-      "title": "Bildschirm und Laptop",
-      "lens": 30.0,
+      "title": "Arbeitsbereich und Platz neben dem Gästebett",
+      "lens": 18,
       "projection": "perspective",
       "variant": "gaeste"
     },
@@ -677,8 +677,8 @@
     {
       "id": "kind-henrik-standard-05",
       "room": "kind-henrik",
-      "title": "DYVLINGE · Polster und Drehgestell",
-      "lens": 38.0,
+      "title": "Spielbereich und Schlafen im Zusammenhang",
+      "lens": 24,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -701,8 +701,8 @@
     {
       "id": "kind-henrik-standard-08",
       "room": "kind-henrik",
-      "title": "DYVLINGE · Kord und Knopfheftung",
-      "lens": 65.0,
+      "title": "Arbeitsplatz und Raummitte",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -757,8 +757,8 @@
     {
       "id": "kind-freja-standard-07",
       "room": "kind-freja",
-      "title": "Bett · Detail",
-      "lens": 35,
+      "title": "Bett, Stauraum und Bewegungsfläche",
+      "lens": 22,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -821,8 +821,8 @@
     {
       "id": "schlafen-standard-08",
       "room": "schlafen",
-      "title": "Arbeitsecke · Detail ohne Endteil",
-      "lens": 40,
+      "title": "Vom Fenster zu Bett und Schranknische",
+      "lens": 23,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -877,8 +877,8 @@
     {
       "id": "bad-og-standard-07",
       "room": "bad-og",
-      "title": "Waschtisch · Detail",
-      "lens": 40,
+      "title": "Familienbad · Raumzusammenhang",
+      "lens": 22,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -917,8 +917,8 @@
     {
       "id": "flur-og-standard-05",
       "room": "flur-og",
-      "title": "Treppenankunft · Geländerdetail",
-      "lens": 35,
+      "title": "Galerie und Übergang zu den Zimmern",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },

@@ -2,7 +2,7 @@
 const D=window.HOUSE_DATA, content=document.querySelector('#content'), viewer=document.querySelector('#viewer');
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let visibleViews=[],current=null,floor='Alle',lens='all',lastFocus=null;
-const asset=(v,thumb=false)=>`images/${v.id}${thumb?'-thumb':''}.webp?v=20261017b`;
+const asset=(v,thumb=false)=>`images/${v.id}${thumb?'-thumb':''}.webp?v=20261017c`;
 const optics=v=>v.projection==='orthographic'?'Orthografisch':`${v.lens} mm`;
 const variantName=v=>v==='gaeste'?'Gästebett':v==='alltag'?'Alltag · Rudergerät':'Aktueller Stand';
 function route(){const parts=location.hash.slice(1).split('?');const path=parts[0].split('/').filter(Boolean);return {room:path[0]==='raum'?D.rooms.find(r=>r.id===path[1]):null,params:new URLSearchParams(parts[1]||'')}}
