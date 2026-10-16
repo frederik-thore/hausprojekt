@@ -4,11 +4,9 @@
 
 13 Bereiche, 100 Ansichten. Planungsstand 64, basierend auf dem vollständigen Hausmodell 63. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
-## Änderungswünsche
+## Nutzung
 
-Eine Ansicht öffnen, „Stelle im Bild markieren“ wählen, ins Bild klicken und den Wunsch beschreiben. „Auf GitHub einreichen“ öffnet einen vorausgefüllten Issue-Entwurf; erst das Absenden auf GitHub macht ihn gemeinsam sichtbar. Dafür ist ein GitHub-Konto erforderlich. Browserentwürfe sind lokal und werden nicht zwischen Geräten synchronisiert. Alternativ den JSON-Entwurf herunterladen und weitergeben.
-
-Die Seite ist eine Rendergalerie, kein 3D-Editor. Möbeländerungen erfolgen im Hausmodell. Raum, Variante, Bild-ID und relative Markierungskoordinaten ordnen jeden Wunsch eindeutig zu.
+Räume auswählen, Ansichten nach Bildausschnitt filtern und Bilder vergrößern. In der Bildansicht mit den Pfeilen durch den Raum blättern. Für das Arbeitszimmer stehen Alltag und Gästebett zur Auswahl. Zum Anschauen ist kein Login nötig. Möbeländerungen erfolgen weiterhin im Hausmodell.
 
 ## Aktualisieren
 
