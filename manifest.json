@@ -1,6 +1,6 @@
 {
-  "version": 66,
-  "date": "2026-10-20",
+  "version": 67,
+  "date": "2026-10-21",
   "rooms": [
     {
       "id": "aussen",
@@ -112,16 +112,18 @@
       "id": "schlafen",
       "title": "Schlafzimmer",
       "floor": "OG",
-      "summary": "Schlafzimmer mit weißen PAX-Fronten, heller Birke und blauen Textilakzenten.",
+      "summary": "Vier Varianten der PAX-Schranknische mit identischen Perspektiven zum Vergleichen.",
       "facts": [
         "MALM 180 × 200 cm; blau-weiß gestreifte Kissen und verfeinerte Baumwollbettwäsche",
         "Zwei BJÖRKSNÄS-Nachttische in Birke: Beine um 10 cm gekürzt, Gesamthöhe 59 cm",
-        "PAX-Nischenschrank 150 cm ohne Endteil; beide PAX mit weißen GULLABERG-Fronten und HAMPHULT-Eichenknöpfen Ø 22 mm",
         "Arbeitsplatte: helle Birke, 115 × 60 cm, ohne Beine mit verdeckten Wandkonsolen",
         "DYTÅG in Weiß: beide Schals links gerafft; Gardinenstange auf Schrankhöhe 236,4 cm",
         "Karla-Läufer: 70 × 200 cm, mit Fransen etwa 70 × 207 cm, vor dem Bett",
         "TOLKNING-Rattanhocker mit Aufbewahrung: Ø 50 × 41 cm, links neben dem großen PAX",
-        "Schlafzimmer aktualisiert am 20. Oktober 2026"
+        "PAX-Nische: 150 cm breit; weiße GULLABERG-Fronten mit HAMPHULT-Eichenknöpfen; vier Varianten",
+        "Großer PAX: 2 cm Abstand zur Fensterwand; Hocker mit 3 cm Seitenabstand",
+        "Kopfteil: 8 cm Wandabstand, rund 5,9 cm Luft zur Dachschräge",
+        "Schlafzimmer aktualisiert am 21. Oktober 2026"
       ]
     },
     {
@@ -767,70 +769,6 @@
       "variant": "standard"
     },
     {
-      "id": "schlafen-standard-01",
-      "room": "schlafen",
-      "title": "Vom Eingang · Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-02",
-      "room": "schlafen",
-      "title": "Vom Fenster zur Nische",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-03",
-      "room": "schlafen",
-      "title": "MALM 180 × 200 unter der Schräge",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-04",
-      "room": "schlafen",
-      "title": "PAX und Arbeitsecke",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-05",
-      "room": "schlafen",
-      "title": "Großer PAX · GULLABERG in Weiß",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-06",
-      "room": "schlafen",
-      "title": "Arbeitsnische mit schwebender Birkenplatte",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-07",
-      "room": "schlafen",
-      "title": "Aufteilung im Hausgrundriss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "schlafen-standard-08",
-      "room": "schlafen",
-      "title": "Vom Fenster zu Bett und Schranknische",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
       "id": "bad-og-standard-01",
       "room": "bad-og",
       "title": "Bad · Übersicht",
@@ -957,6 +895,390 @@
       "lens": 24.0,
       "projection": "orthographic",
       "variant": "standard"
+    },
+    {
+      "id": "schlafen-v1-01",
+      "room": "schlafen",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-02",
+      "room": "schlafen",
+      "title": "Vom Fenster zur Nische",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-03",
+      "room": "schlafen",
+      "title": "MALM 180 × 200 unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-04",
+      "room": "schlafen",
+      "title": "PAX und Arbeitsecke",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-05",
+      "room": "schlafen",
+      "title": "Großer PAX · GULLABERG in Weiß",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-06",
+      "room": "schlafen",
+      "title": "Arbeitsnische mit schwebender Birkenplatte",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-07",
+      "room": "schlafen",
+      "title": "Aufteilung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-08",
+      "room": "schlafen",
+      "title": "Vom Fenster zu Bett und Schranknische",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-09",
+      "room": "schlafen",
+      "title": "Nische und Dachverlauf vom Fenster",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-10",
+      "room": "schlafen",
+      "title": "Schranknische von der Bettseite",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-11",
+      "room": "schlafen",
+      "title": "Bett, Fenster und freie Mitte",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v1-12",
+      "room": "schlafen",
+      "title": "Vom Kopfende zu Schrank und Eingang",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v1"
+    },
+    {
+      "id": "schlafen-v2-01",
+      "room": "schlafen",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-02",
+      "room": "schlafen",
+      "title": "Vom Fenster zur Nische",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-03",
+      "room": "schlafen",
+      "title": "MALM 180 × 200 unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-04",
+      "room": "schlafen",
+      "title": "PAX und Arbeitsecke",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-05",
+      "room": "schlafen",
+      "title": "Großer PAX · GULLABERG in Weiß",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-06",
+      "room": "schlafen",
+      "title": "Arbeitsnische mit schwebender Birkenplatte",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-07",
+      "room": "schlafen",
+      "title": "Aufteilung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-08",
+      "room": "schlafen",
+      "title": "Vom Fenster zu Bett und Schranknische",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-09",
+      "room": "schlafen",
+      "title": "Nische und Dachverlauf vom Fenster",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-10",
+      "room": "schlafen",
+      "title": "Schranknische von der Bettseite",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-11",
+      "room": "schlafen",
+      "title": "Bett, Fenster und freie Mitte",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v2-12",
+      "room": "schlafen",
+      "title": "Vom Kopfende zu Schrank und Eingang",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v2"
+    },
+    {
+      "id": "schlafen-v3-01",
+      "room": "schlafen",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-02",
+      "room": "schlafen",
+      "title": "Vom Fenster zur Nische",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-03",
+      "room": "schlafen",
+      "title": "MALM 180 × 200 unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-04",
+      "room": "schlafen",
+      "title": "PAX und Arbeitsecke",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-05",
+      "room": "schlafen",
+      "title": "Großer PAX · GULLABERG in Weiß",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-06",
+      "room": "schlafen",
+      "title": "Arbeitsnische mit schwebender Birkenplatte",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-07",
+      "room": "schlafen",
+      "title": "Aufteilung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-08",
+      "room": "schlafen",
+      "title": "Vom Fenster zu Bett und Schranknische",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-09",
+      "room": "schlafen",
+      "title": "Nische und Dachverlauf vom Fenster",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-10",
+      "room": "schlafen",
+      "title": "Schranknische von der Bettseite",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-11",
+      "room": "schlafen",
+      "title": "Bett, Fenster und freie Mitte",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v3-12",
+      "room": "schlafen",
+      "title": "Vom Kopfende zu Schrank und Eingang",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v3"
+    },
+    {
+      "id": "schlafen-v4-01",
+      "room": "schlafen",
+      "title": "Vom Eingang · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-02",
+      "room": "schlafen",
+      "title": "Vom Fenster zur Nische",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-03",
+      "room": "schlafen",
+      "title": "MALM 180 × 200 unter der Schräge",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-04",
+      "room": "schlafen",
+      "title": "PAX und Arbeitsecke",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-05",
+      "room": "schlafen",
+      "title": "Großer PAX · GULLABERG in Weiß",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-06",
+      "room": "schlafen",
+      "title": "Arbeitsnische mit schwebender Birkenplatte",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-07",
+      "room": "schlafen",
+      "title": "Aufteilung im Hausgrundriss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-08",
+      "room": "schlafen",
+      "title": "Vom Fenster zu Bett und Schranknische",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-09",
+      "room": "schlafen",
+      "title": "Nische und Dachverlauf vom Fenster",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-10",
+      "room": "schlafen",
+      "title": "Schranknische von der Bettseite",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-11",
+      "room": "schlafen",
+      "title": "Bett, Fenster und freie Mitte",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "v4"
+    },
+    {
+      "id": "schlafen-v4-12",
+      "room": "schlafen",
+      "title": "Vom Kopfende zu Schrank und Eingang",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "v4"
     }
   ]
 }
