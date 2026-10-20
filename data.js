@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 67,
+  "version": 68,
   "date": "2026-10-21",
   "rooms": [
     {

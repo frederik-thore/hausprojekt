@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 100 Ansichten. Planungsstand 67 mit aktualisiertem Schlafzimmer (21. Oktober 2026). Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 140 Ansichten. Planungsstand 68 mit aktualisiertem Schlafzimmer (21. Oktober 2026). Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -18,3 +18,5 @@ Räume auswählen, Ansichten nach Bildausschnitt filtern und Bilder vergrößern
 - Lokal: `python3 -m http.server 8764`, anschließend `http://localhost:8764` öffnen.
 
 Alle Maße sind Planungsangaben. Orthografische Geschossansichten verwenden die vereinfachte Darstellung des vorhandenen Übersichtsmodells. Weitwinkel können räumliche Abstände größer erscheinen lassen. Visualisierungen ersetzen keine Ausführungsplanung.
+
+Stand 68 korrigiert die Schlafzimmer-Varianten 2–4: vollständige hohe GULLABERG-Fronten entsprechend dem Fensterschrank; Dachblende bündig mit der hohen Schrankoberkante und passend zur Schräge. 21 Raumansichten wurden neu gerendert.
