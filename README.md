@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 100 Ansichten. Planungsstand 64, basierend auf dem vollständigen Hausmodell 63. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 100 Ansichten. Planungsstand 65 mit aktualisiertem Schlafzimmer (20. Oktober 2026). Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 

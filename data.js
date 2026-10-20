@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 64,
-  "date": "2026-10-16",
+  "version": 65,
+  "date": "2026-10-20",
   "rooms": [
     {
       "id": "aussen",
@@ -112,12 +112,15 @@ window.HOUSE_DATA = {
       "id": "schlafen",
       "title": "Schlafzimmer",
       "floor": "OG",
-      "summary": "Doppelbett, PAX-Schränke und Arbeitsecke in der Nische.",
+      "summary": "Schlafzimmer mit weißen PAX-Fronten, heller Birke und blauen Textilakzenten.",
       "facts": [
-        "MALM 180 × 200 cm",
-        "Nischenschrank PAX 150 cm ohne zusätzliches Endteil",
-        "Arbeitsecke mit HOLMARED-Platte 115 × 60 cm",
-        "Großer PAX mit grauen GULLABERG-Fronten"
+        "MALM 180 × 200 cm; zwei BJÖRKSNÄS-Nachttische in Birke (48 × 38 × 69 cm)",
+        "PAX-Nischenschrank 150 cm ohne Endteil; beide PAX mit GULLABERG-Fronten in Weiß",
+        "HAMPHULT-Knöpfe: Eiche, Ø 22 mm",
+        "Arbeitsplatte: helle Birke, 115 × 60 cm, ohne Beine mit verdeckten Wandkonsolen",
+        "DYTÅG-Leinenvorhänge in Weiß, bodenlang gekürzt, an weißer Gardinenstange",
+        "Karla-Läufer in Blau, 70 × 200 cm, vor dem Bett",
+        "Schlafzimmer aktualisiert am 20. Oktober 2026"
       ]
     },
     {
@@ -797,7 +800,7 @@ window.HOUSE_DATA = {
     {
       "id": "schlafen-standard-05",
       "room": "schlafen",
-      "title": "Großer PAX mit grauen GULLABERG-Fronten",
+      "title": "Großer PAX · GULLABERG in Weiß",
       "lens": 18.0,
       "projection": "perspective",
       "variant": "standard"
@@ -805,7 +808,7 @@ window.HOUSE_DATA = {
     {
       "id": "schlafen-standard-06",
       "room": "schlafen",
-      "title": "Bambus-Arbeitsplatte in der Nische",
+      "title": "Arbeitsnische mit schwebender Birkenplatte",
       "lens": 25.0,
       "projection": "perspective",
       "variant": "standard"
