@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "date": "2026-10-21",
   "rooms": [
     {
@@ -130,11 +130,15 @@
       "id": "bad-og",
       "title": "Familienbad",
       "floor": "OG",
-      "summary": "Badewanne, Dusche und Waschtisch im Obergeschoss.",
+      "summary": "Zwei Schrankvarianten mit jeweils zwölf Ansichten des gesamten Familienbads.",
       "facts": [
-        "Dachschräge und Fenster nach Hausmodell",
-        "Fliesenabschluss über der Badewanne",
-        "Sanitärobjekte und Materialien im aktuellen Planungsstand"
+        "IKEA ÄNGSJÖN in Eichenachbildung: 35 cm tief, 195 cm hoch",
+        "Variante 1: zwei 40-cm-Schränke; 10 cm Abstand zur Wand neben der Tür",
+        "Variante 2: links 60 cm mit Türen und Schubladen, rechts 40 cm an der Tür; 5 cm Wandabstand",
+        "Wandhängend an der Eingangsseite der Duschrückwand; 20 cm Bodenfreiheit als Planungshöhe",
+        "Zwischen den Schränken 4 mm Fuge; Türschwenkbereich frei",
+        "Dusche, Waschbecken, Wanne, Fenster, WC und Nische in ergänzenden Perspektiven",
+        "Zusätzliche orthografische Draufsicht zur Raumaufteilung"
       ]
     },
     {
@@ -769,62 +773,6 @@
       "variant": "standard"
     },
     {
-      "id": "bad-og-standard-01",
-      "room": "bad-og",
-      "title": "Bad · Übersicht",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-02",
-      "room": "bad-og",
-      "title": "Badewanne unter der Schräge",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-03",
-      "room": "bad-og",
-      "title": "Dusche",
-      "lens": 23.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-04",
-      "room": "bad-og",
-      "title": "Waschtisch",
-      "lens": 32.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-05",
-      "room": "bad-og",
-      "title": "Boden und Wand",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-06",
-      "room": "bad-og",
-      "title": "Duschbereich · zweite Perspektive",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "bad-og-standard-07",
-      "room": "bad-og",
-      "title": "Familienbad · Raumzusammenhang",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
       "id": "flur-og-standard-01",
       "room": "flur-og",
       "title": "Flur · Übersicht",
@@ -1279,6 +1227,198 @@
       "lens": 22,
       "projection": "perspective",
       "variant": "v4"
+    },
+    {
+      "id": "bad-og-b4040-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4040-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4040"
+    },
+    {
+      "id": "bad-og-b4060-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "b4060"
+    },
+    {
+      "id": "bad-og-b4060-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "b4060"
     }
   ]
 }
