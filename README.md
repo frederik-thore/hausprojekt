@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 72 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 129 Ansichten. Planungsstand 73 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -28,3 +28,5 @@ Produktgrundlagen HWR: [Waschmaschine WG44G2Z40](https://media3.bsh-group.com/Do
 Stand 71: Im Wohnzimmer stehen drei Anordnungen mit jeweils neun direkt vergleichbaren Perspektiven zur Wahl. Die beiden neuen Optionen zeigen die Récamiere zur Fensterseite, einen gemeinsamen Teppich und einen beziehungsweise zwei Sessel Richtung Essbereich. Die genaue Türfunktion bleibt am Türplan zu bestätigen.
 
 Stand 72: Die Zwei-Sessel-Option zeigt freies Parkett ohne Teppich. Eine schlanke, dunkel gehaltene Stehleuchte mit warmem Licht ergänzt die Sitzgruppe. Die übrigen Wohnzimmeroptionen bleiben unverändert.
+
+Stand 73: Zwei-Sessel-Variante als Gesprächsrunde zum Sofa ausgerichtet, Couchtisch in die Mitte versetzt, Stehleuchte entfernt. Alle neun Ansichten aktualisiert.

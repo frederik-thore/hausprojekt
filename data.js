@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 72,
+  "version": 73,
   "date": "2026-10-23",
   "rooms": [
     {
@@ -21,7 +21,7 @@ window.HOUSE_DATA = {
       "facts": [
         "ÄPPLARYD und EKENÄSET bleiben die Grundlage; KALLAX und Fernseher behalten ihre Positionen",
         "Optionen: Récamiere zur Fensterseite; ein oder zwei EKENÄSET-Sessel zum Essbereich",
-        "Zwei Sessel: freies Parkett ohne Teppich, ergänzt durch eine schlanke Stehleuchte mit warmem Licht; Ein-Sessel-Option weiterhin mit Teppich 280 × 280 cm",
+        "Zwei Sessel: Gesprächsrunde zum Sofa mit mittigem Couchtisch, ohne Teppich und ohne Stehleuchte; Ein-Sessel-Option weiterhin mit Teppich 280 × 280 cm",
         "Neun identische Kameraperspektiven je Anordnung, einschließlich zwei Draufsichten",
         "Die Récamiere ragt vor einen Teil der Verglasung. Öffnungsrichtung und nutzbarer Durchgang der Terrassentür sind noch am Türplan zu bestätigen."
       ]
