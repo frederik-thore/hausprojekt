@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 71 vom 22. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 129 Ansichten. Planungsstand 72 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -26,3 +26,5 @@ Der HWR zeigt HAVSTORP beige, HAMPHULT-Eichengriffe, Siemens WG44G2Z40 / WT47R44
 Produktgrundlagen HWR: [Waschmaschine WG44G2Z40](https://media3.bsh-group.com/Documents/specsheet/de-DE/WG44G2Z40.pdf), [Trockner WT47R440](https://media3.bsh-group.com/Documents/specsheet/de-DE/WT47R440.pdf). Der Elektroschrank ist als Platzhalter für die spätere Elektroplanung modelliert.
 
 Stand 71: Im Wohnzimmer stehen drei Anordnungen mit jeweils neun direkt vergleichbaren Perspektiven zur Wahl. Die beiden neuen Optionen zeigen die Récamiere zur Fensterseite, einen gemeinsamen Teppich und einen beziehungsweise zwei Sessel Richtung Essbereich. Die genaue Türfunktion bleibt am Türplan zu bestätigen.
+
+Stand 72: Die Zwei-Sessel-Option zeigt freies Parkett ohne Teppich. Eine schlanke, dunkel gehaltene Stehleuchte mit warmem Licht ergänzt die Sitzgruppe. Die übrigen Wohnzimmeroptionen bleiben unverändert.
