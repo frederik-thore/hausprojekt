@@ -22,3 +22,5 @@ Alle Maße sind Planungsangaben. Orthografische Geschossansichten verwenden die 
 Stand 70: Im Schlafzimmer ist die frühere Variante 4 mit zugesägter hoher GULLABERG-Tür festgelegt, im Familienbad die Ausführung mit zwei 40-cm-Hochschränken und 10 cm Wandabstand. Die übrigen Optionen werden nicht mehr angezeigt.
 
 Der HWR zeigt HAVSTORP beige, HAMPHULT-Eichengriffe, Siemens WG44G2Z40 / WT47R440, Vaillant uniTOWER VIH QW 190/7 E 18L, den ausgerichteten Batteriespeicher und einen beispielhaften Elektroschrank am HA-Platz.
+
+Produktgrundlagen HWR: [Waschmaschine WG44G2Z40](https://media3.bsh-group.com/Documents/specsheet/de-DE/WG44G2Z40.pdf), [Trockner WT47R440](https://media3.bsh-group.com/Documents/specsheet/de-DE/WT47R440.pdf). Der Elektroschrank ist als Platzhalter für die spätere Elektroplanung modelliert.
