@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "date": "2026-10-22",
   "rooms": [
     {
@@ -17,12 +17,13 @@
       "id": "wohnen",
       "title": "Wohnen & Essen",
       "floor": "EG",
-      "summary": "Der gemeinsame Wohnbereich mit den zuletzt überarbeiteten Polstermöbeln und HAY-Stühlen.",
+      "summary": "Drei Anordnungen im Vergleich: bisherige Sitzgruppe sowie Récamiere zur Fensterseite mit einem oder zwei Sesseln Richtung Essbereich.",
       "facts": [
-        "ÄPPLARYD mit linker Récamiere, Lejde hellgrau",
-        "EKENÄSET: Kilanda hellbeige",
-        "Vier HAY AAC 26, zwei Tripp Trapp",
-        "ROSLEV 200 × 95 cm; persönliche Fotodekoration"
+        "ÄPPLARYD und EKENÄSET bleiben die Grundlage; KALLAX und Fernseher behalten ihre Positionen",
+        "Optionen: Récamiere zur Fensterseite; ein oder zwei EKENÄSET-Sessel zum Essbereich",
+        "Beide Optionen mit einem gemeinsamen Teppich 280 × 280 cm in ruhigem Blaugrau",
+        "Neun identische Kameraperspektiven je Anordnung, einschließlich zwei Draufsichten",
+        "Die Récamiere ragt vor einen Teil der Verglasung. Öffnungsrichtung und nutzbarer Durchgang der Terrassentür sind noch am Türplan zu bestätigen."
       ]
     },
     {
@@ -253,78 +254,6 @@
       "title": "Grundstück · Übersicht",
       "lens": 45.0,
       "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-01",
-      "room": "wohnen",
-      "title": "Wohnzimmer · Sitzgruppe im Raum",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-02",
-      "room": "wohnen",
-      "title": "Vom Essbereich zur Sitzgruppe",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-03",
-      "room": "wohnen",
-      "title": "Vom Wohnbereich durch den gesamten Raum",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-04",
-      "room": "wohnen",
-      "title": "Essplatz und Übergang zum Wohnbereich",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-05",
-      "room": "wohnen",
-      "title": "Wohnen und Essen",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-06",
-      "room": "wohnen",
-      "title": "Wohnbereich und Übergang zur Terrasse",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-07",
-      "room": "wohnen",
-      "title": "Laufweg am Essplatz und Terrassenzugang",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-08",
-      "room": "wohnen",
-      "title": "Wohnen und Essen · Draufsicht",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-09",
-      "room": "wohnen",
-      "title": "Essplatz und Wandgestaltung im Raum",
-      "lens": 20,
-      "projection": "perspective",
       "variant": "standard"
     },
     {
@@ -1054,6 +983,222 @@
       "lens": 18,
       "projection": "perspective",
       "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-zwei-sessel-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "zwei-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "ein-sessel"
     }
   ]
 }

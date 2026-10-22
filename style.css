@@ -19,3 +19,5 @@
  select{display:block;margin:6px 0 0}
  .viewer-bar>div{min-width:0}.viewer-bar .light{flex:none}
 }
+
+#view-variants:not([hidden]){display:flex;margin:0 0 16px;gap:8px}#view-variants[hidden]{display:none}#view-variants .chip{font-size:13px;padding:8px 12px}
