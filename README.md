@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 73 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 129 Ansichten. Planungsstand 74 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -30,3 +30,5 @@ Stand 71: Im Wohnzimmer stehen drei Anordnungen mit jeweils neun direkt vergleic
 Stand 72: Die Zwei-Sessel-Option zeigt freies Parkett ohne Teppich. Eine schlanke, dunkel gehaltene Stehleuchte mit warmem Licht ergänzt die Sitzgruppe. Die übrigen Wohnzimmeroptionen bleiben unverändert.
 
 Stand 73: Zwei-Sessel-Variante als Gesprächsrunde zum Sofa ausgerichtet, Couchtisch in die Mitte versetzt, Stehleuchte entfernt. Alle neun Ansichten aktualisiert.
+
+Stand 74: Gesprächsrunde mit um 20 cm herangerücktem Sessel als Standard und Übersichtskachel; ursprüngliche Basisanordnung bleibt als Option erhalten.
