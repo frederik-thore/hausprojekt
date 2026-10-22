@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 157 Ansichten. Planungsstand 69 mit aktualisiertem Schlafzimmer (21. Oktober 2026). Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 111 Ansichten. Planungsstand 70 vom 22. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -19,8 +19,6 @@ Räume auswählen, Ansichten nach Bildausschnitt filtern und Bilder vergrößern
 
 Alle Maße sind Planungsangaben. Orthografische Geschossansichten verwenden die vereinfachte Darstellung des vorhandenen Übersichtsmodells. Weitwinkel können räumliche Abstände größer erscheinen lassen. Visualisierungen ersetzen keine Ausführungsplanung.
 
-Stand 68 korrigiert die Schlafzimmer-Varianten 2–4: vollständige hohe GULLABERG-Fronten entsprechend dem Fensterschrank; Dachblende bündig mit der hohen Schrankoberkante und passend zur Schräge. 21 Raumansichten wurden neu gerendert.
+Stand 70: Im Schlafzimmer ist die frühere Variante 4 mit zugesägter hoher GULLABERG-Tür festgelegt, im Familienbad die Ausführung mit zwei 40-cm-Hochschränken und 10 cm Wandabstand. Die übrigen Optionen werden nicht mehr angezeigt.
 
-Stand 69 ergänzt zwei wandhängende ÄNGSJÖN-Hochschränke (je 40 × 35 × 195 cm) im Familienbad. Zwölf neue Badansichten zeigen Eingang, Schränke, Dusche, Waschtisch, Wanne, Fenster, WC und Nische.
-
-Das Familienbad ist zwischen 40+40 cm (10 cm Wandabstand) und 60+40 cm (5 cm Wandabstand, 40 cm an der Tür) umschaltbar. Beide Varianten haben zwölf identische Perspektiven.
+Der HWR zeigt HAVSTORP beige, HAMPHULT-Eichengriffe, Siemens WG44G2Z40 / WT47R440, Vaillant uniTOWER VIH QW 190/7 E 18L, den ausgerichteten Batteriespeicher und einen beispielhaften Elektroschrank am HA-Platz.

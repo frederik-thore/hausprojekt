@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 69,
-  "date": "2026-10-21",
+  "version": 70,
+  "date": "2026-10-22",
   "rooms": [
     {
       "id": "aussen",
@@ -52,11 +52,15 @@ window.HOUSE_DATA = {
       "id": "hwr",
       "title": "Hauswirtschaftsraum",
       "floor": "EG",
-      "summary": "Waschen, Stauraum und Haustechnik.",
+      "summary": "Beige HAVSTORP-Fronten mit Eichengriffen, Siemens-Waschturm und aktualisierte Haustechnik.",
       "facts": [
-        "IKEA-Zeile mit HOLMARED-Arbeitsplatte",
-        "Siemens-Waschturm",
-        "Vaillant uniTOWER und Huawei-Speichersystem"
+        "IKEA METOD mit glatten HAVSTORP-Fronten in Beige und HAMPHULT-Griffen aus Eiche, 146 mm",
+        "Bestehende Schrankaufteilung und HOLMARED-Arbeitsplatte bleiben erhalten",
+        "Waschmaschine Siemens WG44G2Z40: H × B × T 84,5 × 59,8 × 59 cm; mit Tür 63,6 cm tief",
+        "Trockner Siemens WT47R440: H × B × T 84,2 × 59,8 × 61,3 cm; im Waschturm mit modelliertem Verbinder",
+        "Vaillant uniTOWER VIH QW 190/7 E 18L: 59,5 × 60 cm Stellfläche; Gehäuse 190 cm laut Maßzeichnung, technisches Datenblatt nennt 195 cm Gesamthöhe",
+        "Huawei-Batteriespeicher mittig unter dem Wechselrichter ausgerichtet",
+        "Geschlossener Elektro-/Zählerschrank am HA-Platz des ursprünglichen Plans; 80 × 20,5 × 110 cm als Planungsannahme"
       ]
     },
     {
@@ -112,7 +116,7 @@ window.HOUSE_DATA = {
       "id": "schlafen",
       "title": "Schlafzimmer",
       "floor": "OG",
-      "summary": "Vier Varianten der PAX-Schranknische mit identischen Perspektiven zum Vergleichen.",
+      "summary": "Festgelegte Ausführung mit hohen PAX und einer passend zur Dachschräge zugesägten GULLABERG-Tür.",
       "facts": [
         "MALM 180 × 200 cm; blau-weiß gestreifte Kissen und verfeinerte Baumwollbettwäsche",
         "Zwei BJÖRKSNÄS-Nachttische in Birke: Beine um 10 cm gekürzt, Gesamthöhe 59 cm",
@@ -120,21 +124,20 @@ window.HOUSE_DATA = {
         "DYTÅG in Weiß: beide Schals links gerafft; Gardinenstange auf Schrankhöhe 236,4 cm",
         "Karla-Läufer: 70 × 200 cm, mit Fransen etwa 70 × 207 cm, vor dem Bett",
         "TOLKNING-Rattanhocker mit Aufbewahrung: Ø 50 × 41 cm, links neben dem großen PAX",
-        "PAX-Nische: 150 cm breit; weiße GULLABERG-Fronten mit HAMPHULT-Eichenknöpfen; vier Varianten",
+        "PAX-Nische: 150 cm breit; weiße GULLABERG-Fronten mit HAMPHULT-Eichenknöpfen; hohe Schränke 236,4 cm, niedriger Korpus mit zugesägter hoher Tür",
         "Großer PAX: 2 cm Abstand zur Fensterwand; Hocker mit 3 cm Seitenabstand",
         "Kopfteil: 8 cm Wandabstand, rund 5,9 cm Luft zur Dachschräge",
-        "Schlafzimmer aktualisiert am 21. Oktober 2026"
+        "Schlafzimmer aktualisiert am 22. Oktober 2026"
       ]
     },
     {
       "id": "bad-og",
       "title": "Familienbad",
       "floor": "OG",
-      "summary": "Zwei Schrankvarianten mit jeweils zwölf Ansichten des gesamten Familienbads.",
+      "summary": "Familienbad mit zwei 40 cm breiten ÄNGSJÖN-Hochschränken an der Duschrückwand.",
       "facts": [
         "IKEA ÄNGSJÖN in Eichenachbildung: 35 cm tief, 195 cm hoch",
-        "Variante 1: zwei 40-cm-Schränke; 10 cm Abstand zur Wand neben der Tür",
-        "Variante 2: links 60 cm mit Türen und Schubladen, rechts 40 cm an der Tür; 5 cm Wandabstand",
+        "zwei 40-cm-Schränke; 10 cm Abstand zur Wand neben der Tür",
         "Wandhängend an der Eingangsseite der Duschrückwand; 20 cm Bodenfreiheit als Planungshöhe",
         "Zwischen den Schränken 4 mm Fuge; Türschwenkbereich frei",
         "Dusche, Waschbecken, Wanne, Fenster, WC und Nische in ergänzenden Perspektiven",
@@ -434,62 +437,6 @@ window.HOUSE_DATA = {
       "title": "Treppe · Aufstieg",
       "lens": 14.0,
       "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-01",
-      "room": "hwr",
-      "title": "HWR · Blick vom Eingang",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-02",
-      "room": "hwr",
-      "title": "IKEA-Zeile und Siemens-Waschturm",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-03",
-      "room": "hwr",
-      "title": "Vaillant uniTOWER in der WP-Nische",
-      "lens": 23.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-04",
-      "room": "hwr",
-      "title": "Huawei-Speicher und Wechselrichter",
-      "lens": 26.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-05",
-      "room": "hwr",
-      "title": "HWR · Übersicht im Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-06",
-      "room": "hwr",
-      "title": "Waschmaschine, Verbinder und Trockner",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-07",
-      "room": "hwr",
-      "title": "HWR · Aufteilung nach Hausplan",
-      "lens": 50.0,
-      "projection": "orthographic",
       "variant": "standard"
     },
     {
@@ -845,300 +792,12 @@ window.HOUSE_DATA = {
       "variant": "standard"
     },
     {
-      "id": "schlafen-v1-01",
-      "room": "schlafen",
-      "title": "Vom Eingang · Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-02",
-      "room": "schlafen",
-      "title": "Vom Fenster zur Nische",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-03",
-      "room": "schlafen",
-      "title": "MALM 180 × 200 unter der Schräge",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-04",
-      "room": "schlafen",
-      "title": "PAX und Arbeitsecke",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-05",
-      "room": "schlafen",
-      "title": "Großer PAX · GULLABERG in Weiß",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-06",
-      "room": "schlafen",
-      "title": "Arbeitsnische mit schwebender Birkenplatte",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-07",
-      "room": "schlafen",
-      "title": "Aufteilung im Hausgrundriss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-08",
-      "room": "schlafen",
-      "title": "Vom Fenster zu Bett und Schranknische",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-09",
-      "room": "schlafen",
-      "title": "Nische und Dachverlauf vom Fenster",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-10",
-      "room": "schlafen",
-      "title": "Schranknische von der Bettseite",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-11",
-      "room": "schlafen",
-      "title": "Bett, Fenster und freie Mitte",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v1-12",
-      "room": "schlafen",
-      "title": "Vom Kopfende zu Schrank und Eingang",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v1"
-    },
-    {
-      "id": "schlafen-v2-01",
-      "room": "schlafen",
-      "title": "Vom Eingang · Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-02",
-      "room": "schlafen",
-      "title": "Vom Fenster zur Nische",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-03",
-      "room": "schlafen",
-      "title": "MALM 180 × 200 unter der Schräge",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-04",
-      "room": "schlafen",
-      "title": "PAX und Arbeitsecke",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-05",
-      "room": "schlafen",
-      "title": "Großer PAX · GULLABERG in Weiß",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-06",
-      "room": "schlafen",
-      "title": "Arbeitsnische mit schwebender Birkenplatte",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-07",
-      "room": "schlafen",
-      "title": "Aufteilung im Hausgrundriss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-08",
-      "room": "schlafen",
-      "title": "Vom Fenster zu Bett und Schranknische",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-09",
-      "room": "schlafen",
-      "title": "Nische und Dachverlauf vom Fenster",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-10",
-      "room": "schlafen",
-      "title": "Schranknische von der Bettseite",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-11",
-      "room": "schlafen",
-      "title": "Bett, Fenster und freie Mitte",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v2-12",
-      "room": "schlafen",
-      "title": "Vom Kopfende zu Schrank und Eingang",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v2"
-    },
-    {
-      "id": "schlafen-v3-01",
-      "room": "schlafen",
-      "title": "Vom Eingang · Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-02",
-      "room": "schlafen",
-      "title": "Vom Fenster zur Nische",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-03",
-      "room": "schlafen",
-      "title": "MALM 180 × 200 unter der Schräge",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-04",
-      "room": "schlafen",
-      "title": "PAX und Arbeitsecke",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-05",
-      "room": "schlafen",
-      "title": "Großer PAX · GULLABERG in Weiß",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-06",
-      "room": "schlafen",
-      "title": "Arbeitsnische mit schwebender Birkenplatte",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-07",
-      "room": "schlafen",
-      "title": "Aufteilung im Hausgrundriss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-08",
-      "room": "schlafen",
-      "title": "Vom Fenster zu Bett und Schranknische",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-09",
-      "room": "schlafen",
-      "title": "Nische und Dachverlauf vom Fenster",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-10",
-      "room": "schlafen",
-      "title": "Schranknische von der Bettseite",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-11",
-      "room": "schlafen",
-      "title": "Bett, Fenster und freie Mitte",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
-      "id": "schlafen-v3-12",
-      "room": "schlafen",
-      "title": "Vom Kopfende zu Schrank und Eingang",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "v3"
-    },
-    {
       "id": "schlafen-v4-01",
       "room": "schlafen",
       "title": "Vom Eingang · Weitwinkel",
       "lens": 18.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-02",
@@ -1146,7 +805,7 @@ window.HOUSE_DATA = {
       "title": "Vom Fenster zur Nische",
       "lens": 19.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-03",
@@ -1154,7 +813,7 @@ window.HOUSE_DATA = {
       "title": "MALM 180 × 200 unter der Schräge",
       "lens": 22.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-04",
@@ -1162,7 +821,7 @@ window.HOUSE_DATA = {
       "title": "PAX und Arbeitsecke",
       "lens": 18.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-05",
@@ -1170,7 +829,7 @@ window.HOUSE_DATA = {
       "title": "Großer PAX · GULLABERG in Weiß",
       "lens": 18.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-06",
@@ -1178,7 +837,7 @@ window.HOUSE_DATA = {
       "title": "Arbeitsnische mit schwebender Birkenplatte",
       "lens": 25.0,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-07",
@@ -1186,7 +845,7 @@ window.HOUSE_DATA = {
       "title": "Aufteilung im Hausgrundriss",
       "lens": 50.0,
       "projection": "orthographic",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-08",
@@ -1194,7 +853,7 @@ window.HOUSE_DATA = {
       "title": "Vom Fenster zu Bett und Schranknische",
       "lens": 23,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-09",
@@ -1202,7 +861,7 @@ window.HOUSE_DATA = {
       "title": "Nische und Dachverlauf vom Fenster",
       "lens": 23,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-10",
@@ -1210,7 +869,7 @@ window.HOUSE_DATA = {
       "title": "Schranknische von der Bettseite",
       "lens": 22,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-11",
@@ -1218,7 +877,7 @@ window.HOUSE_DATA = {
       "title": "Bett, Fenster und freie Mitte",
       "lens": 23,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "schlafen-v4-12",
@@ -1226,7 +885,7 @@ window.HOUSE_DATA = {
       "title": "Vom Kopfende zu Schrank und Eingang",
       "lens": 22,
       "projection": "perspective",
-      "variant": "v4"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-01",
@@ -1234,7 +893,7 @@ window.HOUSE_DATA = {
       "title": "Vom Eingang · Badübersicht",
       "lens": 18,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-02",
@@ -1242,7 +901,7 @@ window.HOUSE_DATA = {
       "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
       "lens": 18,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-03",
@@ -1250,7 +909,7 @@ window.HOUSE_DATA = {
       "title": "Vom Fenster · Schränke und Dusche",
       "lens": 20,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-04",
@@ -1258,7 +917,7 @@ window.HOUSE_DATA = {
       "title": "Dusche · Blick in den Duschbereich",
       "lens": 24,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-05",
@@ -1266,7 +925,7 @@ window.HOUSE_DATA = {
       "title": "Dusche · Armaturen und Zugang",
       "lens": 20,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-06",
@@ -1274,7 +933,7 @@ window.HOUSE_DATA = {
       "title": "Badewanne und Fenster",
       "lens": 22,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-07",
@@ -1282,7 +941,7 @@ window.HOUSE_DATA = {
       "title": "Waschbecken und Fensterseite",
       "lens": 24,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-08",
@@ -1290,7 +949,7 @@ window.HOUSE_DATA = {
       "title": "Toilette und Nische neben der Dusche",
       "lens": 24,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-09",
@@ -1298,7 +957,7 @@ window.HOUSE_DATA = {
       "title": "Nische zwischen Toilette und Dusche",
       "lens": 22,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-10",
@@ -1306,7 +965,7 @@ window.HOUSE_DATA = {
       "title": "Von der Badewanne zum Eingang",
       "lens": 20,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-11",
@@ -1314,7 +973,7 @@ window.HOUSE_DATA = {
       "title": "Bad · Anordnung in der Draufsicht",
       "lens": 0,
       "projection": "orthographic",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
       "id": "bad-og-b4040-12",
@@ -1322,103 +981,79 @@ window.HOUSE_DATA = {
       "title": "Dusche, WC und freie Raummitte",
       "lens": 20,
       "projection": "perspective",
-      "variant": "b4040"
+      "variant": "standard"
     },
     {
-      "id": "bad-og-b4060-01",
-      "room": "bad-og",
-      "title": "Vom Eingang · Badübersicht",
+      "id": "hwr-standard-01",
+      "room": "hwr",
+      "title": "HWR · Blick vom Eingang",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-02",
+      "room": "hwr",
+      "title": "IKEA-Zeile und Siemens-Waschturm",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-03",
+      "room": "hwr",
+      "title": "Vaillant uniTOWER in der WP-Nische",
       "lens": 18,
       "projection": "perspective",
-      "variant": "b4060"
+      "variant": "standard"
     },
     {
-      "id": "bad-og-b4060-02",
-      "room": "bad-og",
-      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "id": "hwr-standard-04",
+      "room": "hwr",
+      "title": "Technikwand · Speicher, Wechselrichter und HA",
+      "lens": 16,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-05",
+      "room": "hwr",
+      "title": "HWR · Übersicht im Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-06",
+      "room": "hwr",
+      "title": "Waschturm und neue HAVSTORP-Fronten",
       "lens": 18,
       "projection": "perspective",
-      "variant": "b4060"
+      "variant": "standard"
     },
     {
-      "id": "bad-og-b4060-03",
-      "room": "bad-og",
-      "title": "Vom Fenster · Schränke und Dusche",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-04",
-      "room": "bad-og",
-      "title": "Dusche · Blick in den Duschbereich",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-05",
-      "room": "bad-og",
-      "title": "Dusche · Armaturen und Zugang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-06",
-      "room": "bad-og",
-      "title": "Badewanne und Fenster",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-07",
-      "room": "bad-og",
-      "title": "Waschbecken und Fensterseite",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-08",
-      "room": "bad-og",
-      "title": "Toilette und Nische neben der Dusche",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-09",
-      "room": "bad-og",
-      "title": "Nische zwischen Toilette und Dusche",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-10",
-      "room": "bad-og",
-      "title": "Von der Badewanne zum Eingang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "b4060"
-    },
-    {
-      "id": "bad-og-b4060-11",
-      "room": "bad-og",
-      "title": "Bad · Anordnung in der Draufsicht",
-      "lens": 0,
+      "id": "hwr-standard-07",
+      "room": "hwr",
+      "title": "HWR · Aufteilung nach Hausplan",
+      "lens": 50.0,
       "projection": "orthographic",
-      "variant": "b4060"
+      "variant": "standard"
     },
     {
-      "id": "bad-og-b4060-12",
-      "room": "bad-og",
-      "title": "Dusche, WC und freie Raummitte",
+      "id": "hwr-standard-08",
+      "room": "hwr",
+      "title": "HA-Ecke und Haustechnik im Raum",
       "lens": 20,
       "projection": "perspective",
-      "variant": "b4060"
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-09",
+      "room": "hwr",
+      "title": "Vom Hausanschluss zum Eingang",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
     }
   ]
 };
