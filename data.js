@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 75,
+  "version": 76,
   "date": "2026-10-23",
   "rooms": [
     {
@@ -61,7 +61,9 @@ window.HOUSE_DATA = {
         "Trockner Siemens WT47R440: H × B × T 84,2 × 59,8 × 61,3 cm; im Waschturm mit modelliertem Verbinder",
         "Vaillant uniTOWER VIH QW 190/7 E 18L: 59,5 × 60 cm Stellfläche; Gehäuse 190 cm laut Maßzeichnung, technisches Datenblatt nennt 195 cm Gesamthöhe",
         "Huawei-Batteriespeicher mittig unter dem Wechselrichter ausgerichtet",
-        "Geschlossener Elektro-/Zählerschrank am HA-Platz des ursprünglichen Plans; 80 × 20,5 × 110 cm als Planungsannahme"
+        "Geschlossener Elektro-/Zählerschrank am HA-Platz des ursprünglichen Plans; 80 × 20,5 × 110 cm als Planungsannahme",
+        "HAMPHULT-Griffe je Front mit 2,5 cm Abstand zur oberen beziehungsweise unteren Türkante",
+        "Eine Reihe EQUIPE Tribeca aus der Küche, hochkant, etwa 24,6 cm hoch mit 2 mm Fugen über der Arbeitsplatte"
       ]
     },
     {
