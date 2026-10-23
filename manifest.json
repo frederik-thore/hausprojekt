@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "date": "2026-10-23",
   "rooms": [
     {
@@ -1202,6 +1202,70 @@
       "lens": 25,
       "projection": "perspective",
       "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "flur-eg-azurblau-01",
+      "room": "flur-eg",
+      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "azurblau"
+    },
+    {
+      "id": "flur-eg-azurblau-07",
+      "room": "flur-eg",
+      "title": "Anordnung im Erdgeschoss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "azurblau"
+    },
+    {
+      "id": "flur-eg-blassblau-01",
+      "room": "flur-eg",
+      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "blassblau"
+    },
+    {
+      "id": "flur-eg-blassblau-07",
+      "room": "flur-eg",
+      "title": "Anordnung im Erdgeschoss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "blassblau"
+    },
+    {
+      "id": "flur-eg-eukalyptusgrau-01",
+      "room": "flur-eg",
+      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "eukalyptusgrau"
+    },
+    {
+      "id": "flur-eg-eukalyptusgrau-07",
+      "room": "flur-eg",
+      "title": "Anordnung im Erdgeschoss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "eukalyptusgrau"
+    },
+    {
+      "id": "flur-eg-graphitschwarz-01",
+      "room": "flur-eg",
+      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "graphitschwarz"
+    },
+    {
+      "id": "flur-eg-graphitschwarz-07",
+      "room": "flur-eg",
+      "title": "Anordnung im Erdgeschoss",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "graphitschwarz"
     }
   ]
 }
