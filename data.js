@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 77,
+  "version": 78,
   "date": "2026-10-23",
   "rooms": [
     {
@@ -41,12 +41,12 @@ window.HOUSE_DATA = {
       "id": "flur-eg",
       "title": "Flur & Treppe",
       "floor": "EG",
-      "summary": "Ankommen, Schuhe und Garderobe.",
+      "summary": "Offener Eingangsbereich mit Eichenbank und nachtblauen Beinen.",
       "facts": [
-        "STÄLL 96 × 17 × 90 cm; Schlüsselhalter 30 cm breit",
-        "TJUSIG-Sitzbank mit Familienfoto 60 × 45 cm darüber",
-        "A-Rack 40 cm; Tintenfisch 20 cm breit",
-        "Aktuelle Positionen aus Stand 63; Glastür bis zum modellierten Anschlag geöffnet"
+        "TIPTOE-Bank: Eiche massiv, 120 × 30 cm, Sitzhöhe 43 cm; Beine Nachtblau",
+        "Schuhschrank hinter der Glastür und Eckgarderobe beim HWR entfernt",
+        "Familienfoto 60 × 45 cm über der Bank; Cape-Town-Schlüsselhalter 30 cm",
+        "A-Rack 40 cm und roter Tintenfisch-Kinderhaken 20 cm"
       ]
     },
     {
@@ -310,15 +310,15 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-01",
       "room": "flur-eg",
-      "title": "Vom Eingang · Schuhschrank und Bank",
-      "lens": 22.0,
+      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "lens": 20,
       "projection": "perspective",
       "variant": "standard"
     },
     {
       "id": "flur-eg-standard-02",
       "room": "flur-eg",
-      "title": "Eckgarderobe am HWR",
+      "title": "Freie Ecke am HWR",
       "lens": 23.0,
       "projection": "perspective",
       "variant": "standard"
@@ -326,7 +326,7 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-03",
       "room": "flur-eg",
-      "title": "STÄLL mit eurem Schlüsselhalter",
+      "title": "Glastür und Schlüsselhalter",
       "lens": 23.0,
       "projection": "perspective",
       "variant": "standard"

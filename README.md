@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 77 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 129 Ansichten. Planungsstand 78 vom 23. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -38,3 +38,5 @@ Stand 75: EG-Grundriss, räumliche EG-Übersicht, Flur-Draufsicht und Küchenans
 Stand 76: HWR-Griffe korrekt je Front positioniert; einzelne Reihe Küchen-Wandfliesen über der Arbeitsplatte. HWR und EG-Übersichten aktualisiert.
 
 Stand 77: Alle elf Außenansichten aus dem aktuellen vollständigen Modell 76 mit Standard-Wohnzimmer Gesprächsrunde neu gerendert.
+
+Stand 78: Flur mit TIPTOE-Bank 120 × 30 × 43 cm, Eiche/Nachtblau; STÄLL und Eckgarderobe entfernt. Herstellerreferenz: https://www.tiptoe.fr/en-eu/products/tiptoe-bench
