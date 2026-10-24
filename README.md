@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 131 Ansichten. Planungsstand 87 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 131 Ansichten. Planungsstand 88 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -68,3 +68,9 @@ EKET 35 × 35 × 35 cm mit zwei Schubladen und 10 cm Bodenfreiheit. PLATSA/FONNE
 ## Frejas Zimmer · Stand 87
 
 RÅSKOG mit dünnen Metallkörben, Lochböden und detaillierten Rollen; fliederfarbene Bettkissen; violettes Interstuhl-Sitzkissen mit dunklem Rand. LENDA-Vorhänge in Elfenbeinweiß, rosa MacBook Neo mittig auf dem Schreibtisch und GREJSIMOJS-Dreierstapel vor dem KALLAX. Raumansichten, OG-Flur und OG-Übersichten aktualisiert.
+
+## Henriks Zimmer · Stand 88
+
+Die fünf SMÅSTAD-Hängeschränke sind links bündig und mit 2-mm-Fugen angeordnet. Untere Dreierreihe ab 6,1 cm über dem Boden, obere Zweierreihe ab 121,5 cm. Zwischen den Reihen bleiben 55,4 cm, zur Dachschräge mindestens etwa 5 cm senkrechter Abstand. Raumansichten und betroffene OG-Übersichten aktualisiert.
+
+Der bisherige VALLABY-Autoteppich wurde durch den runden Benuta LINUS Cream mit 150 cm Durchmesser und dem Produktmotiv ersetzt.

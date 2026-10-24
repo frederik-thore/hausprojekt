@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 87,
+  "version": 88,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -100,8 +100,12 @@ window.HOUSE_DATA = {
       "facts": [
         "PÅHL: vorhandene Breite 128 cm",
         "BRIMNES-Tagesbett",
-        "Fünf SMÅSTAD-Hängeschränke",
-        "Grüner DYVLINGE mit Kordbezug; TROFAST und KALLAX"
+        "Fünf SMÅSTAD-Hängeschränke: links bündig, schmale Fugen",
+        "Grüner DYVLINGE mit Kordbezug; TROFAST und KALLAX",
+        "Untere Dreierreihe: Unterkante ca. 6 cm über Boden, direkt über der Fußleiste",
+        "Obere Zweierreihe: Unterkante ca. 122 cm; etwa 55 cm Platz zwischen den Reihen",
+        "Rund 5 cm Abstand zur Dachschräge, senkrecht zur Schräge gemessen",
+        "Benuta LINUS Cream: rund, Ø 150 cm"
       ]
     },
     {
@@ -584,7 +588,7 @@ window.HOUSE_DATA = {
       "id": "kind-henrik-standard-06",
       "room": "kind-henrik",
       "title": "Spielecke und Wandschränke",
-      "lens": 25.0,
+      "lens": 22,
       "projection": "perspective",
       "variant": "standard"
     },
