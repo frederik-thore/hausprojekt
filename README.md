@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 81 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 131 Ansichten. Planungsstand 82 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -46,3 +46,5 @@ Stand 79: TIPTOE-Beinfarben Azurblau, Blassblau, Eukalyptusgrau und Graphitschwa
 Stand 80: Dunkel gestrichener IVAR 160 × 30 × 83 cm, Unterkante 15 cm, LINDBYN Ø 110 cm mittig darüber. TALON 124 × 35 × 46 cm mit Eiche und glänzendem ultramarinblauem Gestell ersetzt TIPTOE und dessen Farboptionen. Flur und angrenzende Übersichten aktualisiert.
 
 Stand 81: IVAR und LINDBYN gemeinsam 85 cm zur Glastür gerückt. Die Schrankkante bleibt 13,5 cm außerhalb des konservativ berechneten Türschwenkkreises.
+
+Stand 82: IVAR 30 cm von geschlossener Glastür; MyWIRE INN 2 × 80 cm nebeneinander mit 10 cm Eckabstand, KAMP1 mit 20 cm Eckabstand, AVINA 58 × 58 cm, alles schwarz. LOHALS Ø 130 cm vor der Schuhablage. Zwei zusätzliche Raumansichten. Produktreferenzen: https://mywire.at/products/inn-schuhregal-2er-set ; https://mywire.at/products/kamp1 ; https://mywire.at/products/deckenkleiderstange-avina ; https://www.ikea.com/de/de/p/lohals-teppich-flach-gewebt-natur-80515104/

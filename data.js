@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 81,
+  "version": 82,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -41,13 +41,14 @@ window.HOUSE_DATA = {
       "id": "flur-eg",
       "title": "Flur & Treppe",
       "floor": "EG",
-      "summary": "Ankommen mit schwebendem Stauraum, rundem Spiegel und einer Bank aus Eiche und blauem Stahl.",
+      "summary": "Ankommen mit Schuhablage unter der Treppe, Garderobe für Jacken und Mäntel sowie Bank, Schrank und Spiegel.",
       "facts": [
-        "IVAR 160 × 30 × 83 cm, dunkel gestrichen; Unterkante 15 cm über Boden",
-        "LINDBYN Ø 110 cm, mittig über dem IVAR; Spiegelmitte 165 cm",
-        "TALON 124 × 35 × 46 cm, Eiche und glänzendes Ultramarinblau RAL 5002",
-        "Garderobenleiste und Kinderhaken unter der Treppe",
-        "Schrank und Spiegel 85 cm zur Glastür gerückt; näher an Bank und Garderobe"
+        "Dunkler IVAR 160 × 30 × 83 cm, Unterkante 15 cm; 30 cm Abstand zur geschlossenen Glastür",
+        "LINDBYN Ø 110 cm mittig über IVAR; TALON-Bank in Eiche und Ultramarinblau",
+        "MyWIRE INN: 2 × 80 cm nebeneinander, 10 cm zur Mauerkante",
+        "KAMP1 schwarz, 81 cm breit; roter Kinderhaken bleibt",
+        "AVINA schwarz, 58 cm breit und 58 cm abgehängt",
+        "LOHALS Jute Ø 130 cm vor der Schuhablage; Hauptlaufweg frei"
       ]
     },
     {
@@ -335,8 +336,8 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-04",
       "room": "flur-eg",
-      "title": "Garderobenleiste und Kinderhaken",
-      "lens": 30.0,
+      "title": "KAMP1, Kinderhaken und Schuhablage",
+      "lens": 24,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -351,7 +352,7 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-06",
       "room": "flur-eg",
-      "title": "Treppe und Garderobenwand im Zusammenhang",
+      "title": "Garderobe und Teppich unter der Treppe",
       "lens": 20,
       "projection": "perspective",
       "variant": "standard"
@@ -1203,6 +1204,22 @@ window.HOUSE_DATA = {
       "lens": 25,
       "projection": "perspective",
       "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "flur-eg-standard-09",
+      "room": "flur-eg",
+      "title": "AVINA · Mäntel neben dem HWR",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-10",
+      "room": "flur-eg",
+      "title": "Schuhablage und freie Laufwege",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
     }
   ]
 };
