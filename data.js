@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 91,
+  "version": 92,
   "date": "2026-10-25",
   "rooms": [
     {
@@ -44,11 +44,12 @@ window.HOUSE_DATA = {
       "summary": "Ankommen mit Schuhablage unter der Treppe, Garderobe für Jacken und Mäntel sowie Bank, Schrank und Spiegel.",
       "facts": [
         "Dunkler IVAR 160 × 30 × 83 cm, Unterkante 15 cm; 30 cm Abstand zur geschlossenen Glastür",
-        "LINDBYN Ø 110 cm mittig über IVAR; TALON-Bank in Eiche und Ultramarinblau",
+        "LINDBYN Ø 110 cm mittig über IVAR; LAMO LSB Simple: 120 × 30 × 47 cm, Schwarz/Rustikal, 4 cm Massivholzplatte",
         "MyWIRE INN: 2 × 80 cm nebeneinander, 10 cm zur Mauerkante, 10 cm tiefer",
         "KAMP1 weitere 2 cm nach links; Kinderhaken insgesamt 25 cm nach rechts versetzt",
         "AVINA schwarz, 58 × 58 cm; Stange 10 cm zur HWR-Wand",
-        "LOHALS Jute Ø 130 cm vor der Schuhablage; Hauptlaufweg frei"
+        "LOHALS Jute Ø 130 cm vor der Schuhablage; Hauptlaufweg frei",
+        "Treppenstufen: 4 cm Grundstärke plus vordere 4 × 4 cm Aufdopplungsleiste; vorne 8 cm Gesamtstärke"
       ]
     },
     {

@@ -75,12 +75,15 @@ Die fünf SMÅSTAD-Hängeschränke sind links bündig und mit 2-mm-Fugen angeord
 
 Der bisherige VALLABY-Autoteppich wurde durch den runden Benuta LINUS Cream mit 150 cm Durchmesser und dem Produktmotiv ersetzt.
 
-## Henriks Zimmer · Stand 91
+## Henriks Zimmer · Stand 92
 
 Vier APOLLO-Teppiche als Vergleich: Raketen Cream, Planeten Blau und Planeten Cream in 120 × 170 cm; Raketen Cream rund in Ø 120 cm. LINUS Ø 150 cm bleibt Standard. Acht identische Kameraperspektiven pro Variante, direkt umschaltbar im Bildbetrachter.
 
-## Stand 91 – Graue SMÅSTAD-Türen
+## Stand 92 – Graue SMÅSTAD-Türen
 Die sechs bisher blauen Türflügel in Henriks Zimmer sind durch hellgraue Fronten nach IKEA SMÅSTAD 104.513.65 ersetzt. Weiße Türen bleiben erhalten; alle Teppichvarianten und OG-Übersichten sind aktualisiert.
 
-## Stand 91 – Schlafzimmerleuchten
+## Stand 92 – Schlafzimmerleuchten
 Je eine IKEA DEJSA 904.049.83 auf beiden BJÖRKSNÄS-Nachttischen: beige/opalweiß, 28 cm hoch und 26 cm Schirmdurchmesser. Nach Herstellerbild modellierter Glasschirm, Glasfuß, Metallhals und Kabel.
+
+## Stand 92 – Flurbank und Treppenstufen
+LAMO LSB Simple in Schwarz/Rustikal, 120 × 30 × 47 cm mit 40-mm-Holzplatte. Treppe: 40 mm Grundstufe und nur an der Vorderkante eine untergeklebte Leiste mit 40 × 40 mm Querschnitt; Gesamtstärke vorne 80 mm. Trittflächenhöhen unverändert.
