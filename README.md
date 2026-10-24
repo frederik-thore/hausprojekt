@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 131 Ansichten. Planungsstand 83 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 131 Ansichten. Planungsstand 84 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -52,3 +52,7 @@ Stand 82: IVAR 30 cm von geschlossener Glastür; MyWIRE INN 2 × 80 cm nebeneina
 
 ## Flur · Stand 83
 INN-Schuhregale 10 cm tiefer; KAMP1 14 cm zur Mauerkante und 10 cm höher. AVINA 58 × 58 cm: 10 cm Abstand der Stange zur HWR-Wand, 7 cm näher an die lange Wand (Achse 26,5 cm vor der Wand).
+
+
+## Flur · Stand 84
+KAMP1 weitere 2 cm nach links, Kinderhaken 5 cm nach rechts. 33 Raum- und Übersichtsansichten aus dem aktuellen Gesamtmodell aktualisiert, einschließlich HWR, Arbeits-/Gästezimmer und aller Wohnzimmeroptionen mit sichtbarem Flur.

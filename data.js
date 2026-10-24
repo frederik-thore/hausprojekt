@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 83,
+  "version": 84,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -46,7 +46,7 @@ window.HOUSE_DATA = {
         "Dunkler IVAR 160 × 30 × 83 cm, Unterkante 15 cm; 30 cm Abstand zur geschlossenen Glastür",
         "LINDBYN Ø 110 cm mittig über IVAR; TALON-Bank in Eiche und Ultramarinblau",
         "MyWIRE INN: 2 × 80 cm nebeneinander, 10 cm zur Mauerkante, 10 cm tiefer",
-        "KAMP1 schwarz, 14 cm nach links und 10 cm nach oben versetzt; Kinderhaken bleibt",
+        "KAMP1 weitere 2 cm nach links; Kinderhaken 5 cm nach rechts versetzt",
         "AVINA schwarz, 58 × 58 cm; Stange 10 cm zur HWR-Wand",
         "LOHALS Jute Ø 130 cm vor der Schuhablage; Hauptlaufweg frei"
       ]
