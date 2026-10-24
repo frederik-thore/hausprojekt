@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 131 Ansichten. Planungsstand 86 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 131 Ansichten. Planungsstand 87 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -64,3 +64,7 @@ Kinderhaken weitere 20 cm nach rechts versetzt. Betroffene Fluransichten einschl
 
 ## Frejas Zimmer · Stand 86
 EKET 35 × 35 × 35 cm mit zwei Schubladen und 10 cm Bodenfreiheit. PLATSA/FONNES 60 × 42 × 181 cm ersetzt das offene Möbel zwischen rotem STUVA und KALLAX. Elektrischer TROTTEN 120 × 70 cm mit 71 cm Tischhöhe und weißem RÅSKOG rechts aus Sitzrichtung. ALLY lila in 120 × 170 cm; Muster anhand des Produktfotos als Textur dargestellt. OG-Grundrisse und Fluransichten ebenfalls aus dem aktuellen Gesamtmodell gerendert.
+
+## Frejas Zimmer · Stand 87
+
+RÅSKOG mit dünnen Metallkörben, Lochböden und detaillierten Rollen; fliederfarbene Bettkissen; violettes Interstuhl-Sitzkissen mit dunklem Rand. LENDA-Vorhänge in Elfenbeinweiß, rosa MacBook Neo mittig auf dem Schreibtisch und GREJSIMOJS-Dreierstapel vor dem KALLAX. Raumansichten, OG-Flur und OG-Übersichten aktualisiert.

@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -110,14 +110,18 @@
       "floor": "OG",
       "summary": "Frejas Zimmer mit schwebendem EKET, PLATSA und kompakter Arbeitsecke am Fenster.",
       "facts": [
-        "MALM 140 × 200 cm",
+        "MALM 140 × 200 cm mit fliederfarbenen Kissen",
         "EKET mit 2 Schubladen: 35 × 35 × 35 cm, 10 cm Bodenfreiheit",
         "PLATSA mit FONNES: 60 × 42 × 181 cm",
         "Roter STUVA und rote Kiste bleiben erhalten",
         "KALLAX 4 × 2 mit HOLMARED-Holzarbeitsplatte",
         "TROTTEN elektrisch: 120 × 70 cm, dargestellt auf 71 cm Höhe",
         "RÅSKOG weiß: 35 × 45 × 77 cm, rechts am Schreibtisch",
-        "Benuta ALLY lila: 120 × 170 cm"
+        "Benuta ALLY lila: 120 × 170 cm",
+        "Interstuhl UPis1: violettes Sitzkissen mit dunkler Einfassung",
+        "LENDA elfenbeinweiß, bodenlang an weißer Gardinenstange",
+        "MacBook Neo in Rosa, mittig auf dem TROTTEN",
+        "GREJSIMOJS: drei gestapelte Bodenkissen vor dem KALLAX, Ø 58 / 45 / 32 cm"
       ]
     },
     {
@@ -619,7 +623,7 @@
     {
       "id": "kind-freja-standard-03",
       "room": "kind-freja",
-      "title": "PLATSA, roter STUVA und KALLAX",
+      "title": "KALLAX, PLATSA und GREJSIMOJS-Bodenkissen",
       "lens": 18,
       "projection": "perspective",
       "variant": "standard"
@@ -627,7 +631,7 @@
     {
       "id": "kind-freja-standard-04",
       "room": "kind-freja",
-      "title": "TROTTEN und RÅSKOG am Fenster",
+      "title": "TROTTEN mit MacBook Neo und RÅSKOG",
       "lens": 25.0,
       "projection": "perspective",
       "variant": "standard"
