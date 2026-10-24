@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 80,
+  "version": 81,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -46,7 +46,8 @@ window.HOUSE_DATA = {
         "IVAR 160 × 30 × 83 cm, dunkel gestrichen; Unterkante 15 cm über Boden",
         "LINDBYN Ø 110 cm, mittig über dem IVAR; Spiegelmitte 165 cm",
         "TALON 124 × 35 × 46 cm, Eiche und glänzendes Ultramarinblau RAL 5002",
-        "Garderobenleiste und Kinderhaken unter der Treppe"
+        "Garderobenleiste und Kinderhaken unter der Treppe",
+        "Schrank und Spiegel 85 cm zur Glastür gerückt; näher an Bank und Garderobe"
       ]
     },
     {

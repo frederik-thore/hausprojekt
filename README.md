@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 129 Ansichten. Planungsstand 80 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 129 Ansichten. Planungsstand 81 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -44,3 +44,5 @@ Stand 78: Flur mit TIPTOE-Bank 120 × 30 × 43 cm, Eiche/Nachtblau; STÄLL und E
 Stand 79: TIPTOE-Beinfarben Azurblau, Blassblau, Eukalyptusgrau und Graphitschwarz als Flurvarianten; Nachtblau bleibt Standard. Zwei identische Perspektiven je neuer Farbe.
 
 Stand 80: Dunkel gestrichener IVAR 160 × 30 × 83 cm, Unterkante 15 cm, LINDBYN Ø 110 cm mittig darüber. TALON 124 × 35 × 46 cm mit Eiche und glänzendem ultramarinblauem Gestell ersetzt TIPTOE und dessen Farboptionen. Flur und angrenzende Übersichten aktualisiert.
+
+Stand 81: IVAR und LINDBYN gemeinsam 85 cm zur Glastür gerückt. Die Schrankkante bleibt 13,5 cm außerhalb des konservativ berechneten Türschwenkkreises.
