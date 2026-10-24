@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 131 Ansichten. Planungsstand 88 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 163 Ansichten. Planungsstand 89 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -74,3 +74,7 @@ RÅSKOG mit dünnen Metallkörben, Lochböden und detaillierten Rollen; fliederf
 Die fünf SMÅSTAD-Hängeschränke sind links bündig und mit 2-mm-Fugen angeordnet. Untere Dreierreihe ab 6,1 cm über dem Boden, obere Zweierreihe ab 121,5 cm. Zwischen den Reihen bleiben 55,4 cm, zur Dachschräge mindestens etwa 5 cm senkrechter Abstand. Raumansichten und betroffene OG-Übersichten aktualisiert.
 
 Der bisherige VALLABY-Autoteppich wurde durch den runden Benuta LINUS Cream mit 150 cm Durchmesser und dem Produktmotiv ersetzt.
+
+## Henriks Zimmer · Stand 89
+
+Vier APOLLO-Teppiche als Vergleich: Raketen Cream, Planeten Blau und Planeten Cream in 120 × 170 cm; Raketen Cream rund in Ø 120 cm. LINUS Ø 150 cm bleibt Standard. Acht identische Kameraperspektiven pro Variante, direkt umschaltbar im Bildbetrachter.
