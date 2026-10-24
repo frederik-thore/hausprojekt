@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 79,
-  "date": "2026-10-23",
+  "version": 80,
+  "date": "2026-10-24",
   "rooms": [
     {
       "id": "aussen",
@@ -41,12 +41,12 @@ window.HOUSE_DATA = {
       "id": "flur-eg",
       "title": "Flur & Treppe",
       "floor": "EG",
-      "summary": "Offener Eingangsbereich mit Eichenbank und nachtblauen Beinen.",
+      "summary": "Ankommen mit schwebendem Stauraum, rundem Spiegel und einer Bank aus Eiche und blauem Stahl.",
       "facts": [
-        "TIPTOE-Bank: Eiche massiv, 120 × 30 cm, Sitzhöhe 43 cm; Beine Nachtblau",
-        "Schuhschrank hinter der Glastür und Eckgarderobe beim HWR entfernt",
-        "Familienfoto 60 × 45 cm über der Bank; Cape-Town-Schlüsselhalter 30 cm",
-        "A-Rack 40 cm und roter Tintenfisch-Kinderhaken 20 cm"
+        "IVAR 160 × 30 × 83 cm, dunkel gestrichen; Unterkante 15 cm über Boden",
+        "LINDBYN Ø 110 cm, mittig über dem IVAR; Spiegelmitte 165 cm",
+        "TALON 124 × 35 × 46 cm, Eiche und glänzendes Ultramarinblau RAL 5002",
+        "Garderobenleiste und Kinderhaken unter der Treppe"
       ]
     },
     {
@@ -310,7 +310,7 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-01",
       "room": "flur-eg",
-      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
+      "title": "Vom Eingang · TALON-Bank",
       "lens": 20,
       "projection": "perspective",
       "variant": "standard"
@@ -318,7 +318,7 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-02",
       "room": "flur-eg",
-      "title": "Freie Ecke am HWR",
+      "title": "IVAR und LINDBYN · Schrank und Spiegel",
       "lens": 23.0,
       "projection": "perspective",
       "variant": "standard"
@@ -326,7 +326,7 @@ window.HOUSE_DATA = {
     {
       "id": "flur-eg-standard-03",
       "room": "flur-eg",
-      "title": "Glastür und Schlüsselhalter",
+      "title": "Bank und Glastür",
       "lens": 23.0,
       "projection": "perspective",
       "variant": "standard"
@@ -1202,70 +1202,6 @@ window.HOUSE_DATA = {
       "lens": 25,
       "projection": "perspective",
       "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "flur-eg-azurblau-01",
-      "room": "flur-eg",
-      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "azurblau"
-    },
-    {
-      "id": "flur-eg-azurblau-07",
-      "room": "flur-eg",
-      "title": "Anordnung im Erdgeschoss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "azurblau"
-    },
-    {
-      "id": "flur-eg-blassblau-01",
-      "room": "flur-eg",
-      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "blassblau"
-    },
-    {
-      "id": "flur-eg-blassblau-07",
-      "room": "flur-eg",
-      "title": "Anordnung im Erdgeschoss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "blassblau"
-    },
-    {
-      "id": "flur-eg-eukalyptusgrau-01",
-      "room": "flur-eg",
-      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "eukalyptusgrau"
-    },
-    {
-      "id": "flur-eg-eukalyptusgrau-07",
-      "room": "flur-eg",
-      "title": "Anordnung im Erdgeschoss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "eukalyptusgrau"
-    },
-    {
-      "id": "flur-eg-graphitschwarz-01",
-      "room": "flur-eg",
-      "title": "Vom Eingang · TIPTOE-Bank und freier Flur",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "graphitschwarz"
-    },
-    {
-      "id": "flur-eg-graphitschwarz-07",
-      "room": "flur-eg",
-      "title": "Anordnung im Erdgeschoss",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "graphitschwarz"
     }
   ]
 };
