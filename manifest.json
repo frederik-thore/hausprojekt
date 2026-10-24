@@ -1,5 +1,5 @@
 {
-  "version": 85,
+  "version": 86,
   "date": "2026-10-24",
   "rooms": [
     {
@@ -108,13 +108,16 @@
       "id": "kind-freja",
       "title": "Frejas Zimmer",
       "floor": "OG",
-      "summary": "Aktuelle Aufteilung mit Schreibtisch am Fenster.",
+      "summary": "Frejas Zimmer mit schwebendem EKET, PLATSA und kompakter Arbeitsecke am Fenster.",
       "facts": [
         "MALM 140 × 200 cm",
-        "Roter STUVA: 60 × 53 × 193 cm",
-        "Rote Kiste: 89 × 49 × 48,5 cm",
-        "KALLAX 4 × 2 mit Holzarbeitsplatte",
-        "TROTTEN 160 × 80 cm; Interstuhl UPis1 weiß/blau"
+        "EKET mit 2 Schubladen: 35 × 35 × 35 cm, 10 cm Bodenfreiheit",
+        "PLATSA mit FONNES: 60 × 42 × 181 cm",
+        "Roter STUVA und rote Kiste bleiben erhalten",
+        "KALLAX 4 × 2 mit HOLMARED-Holzarbeitsplatte",
+        "TROTTEN elektrisch: 120 × 70 cm, dargestellt auf 71 cm Höhe",
+        "RÅSKOG weiß: 35 × 45 × 77 cm, rechts am Schreibtisch",
+        "Benuta ALLY lila: 120 × 170 cm"
       ]
     },
     {
@@ -616,15 +619,15 @@
     {
       "id": "kind-freja-standard-03",
       "room": "kind-freja",
-      "title": "KALLAX 4 × 2 mit HOLMARED-Arbeitsplatte",
-      "lens": 21.0,
+      "title": "PLATSA, roter STUVA und KALLAX",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },
     {
       "id": "kind-freja-standard-04",
       "room": "kind-freja",
-      "title": "TROTTEN und Interstuhl am Fenster",
+      "title": "TROTTEN und RÅSKOG am Fenster",
       "lens": 25.0,
       "projection": "perspective",
       "variant": "standard"
@@ -648,7 +651,7 @@
     {
       "id": "kind-freja-standard-07",
       "room": "kind-freja",
-      "title": "Bett, Stauraum und Bewegungsfläche",
+      "title": "Bett mit schwebendem EKET und Stauraum",
       "lens": 22,
       "projection": "perspective",
       "variant": "standard"
