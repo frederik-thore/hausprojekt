@@ -75,6 +75,9 @@ Die fünf SMÅSTAD-Hängeschränke sind links bündig und mit 2-mm-Fugen angeord
 
 Der bisherige VALLABY-Autoteppich wurde durch den runden Benuta LINUS Cream mit 150 cm Durchmesser und dem Produktmotiv ersetzt.
 
-## Henriks Zimmer · Stand 89
+## Henriks Zimmer · Stand 90
 
 Vier APOLLO-Teppiche als Vergleich: Raketen Cream, Planeten Blau und Planeten Cream in 120 × 170 cm; Raketen Cream rund in Ø 120 cm. LINUS Ø 150 cm bleibt Standard. Acht identische Kameraperspektiven pro Variante, direkt umschaltbar im Bildbetrachter.
+
+## Stand 90 – Graue SMÅSTAD-Türen
+Die sechs bisher blauen Türflügel in Henriks Zimmer sind durch hellgraue Fronten nach IKEA SMÅSTAD 104.513.65 ersetzt. Weiße Türen bleiben erhalten; alle Teppichvarianten und OG-Übersichten sind aktualisiert.

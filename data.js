@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 89,
-  "date": "2026-10-24",
+  "version": 90,
+  "date": "2026-10-25",
   "rooms": [
     {
       "id": "aussen",
@@ -100,7 +100,7 @@ window.HOUSE_DATA = {
       "facts": [
         "PÅHL: vorhandene Breite 128 cm",
         "BRIMNES-Tagesbett",
-        "Fünf SMÅSTAD-Hängeschränke: links bündig, schmale Fugen",
+        "Fünf SMÅSTAD-Hängeschränke: graue und weiße Türen, links bündig",
         "Grüner DYVLINGE mit Kordbezug; TROFAST und KALLAX",
         "Untere Dreierreihe: Unterkante ca. 6 cm über Boden, direkt über der Fußleiste",
         "Obere Zweierreihe: Unterkante ca. 122 cm; etwa 55 cm Platz zwischen den Reihen",
