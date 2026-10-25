@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 163 Ansichten. Planungsstand 89 vom 24. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 136 Ansichten. Planungsstand 96 vom 25. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -92,3 +92,11 @@ LAMO LSB Simple in Schwarz/Rustikal, 120 × 30 × 47 cm mit 40-mm-Holzplatte. Tr
 ## Stand 94 · Ausgangsvarianten festgelegt
 
 Henriks Zimmer bleibt bei LINUS Cream Ø 150 cm. Küche: schwarze KILSVIKEN und schwarze SALLSJÖN. Beide Bäder: bisherige Wand- und Bodenfliesen; OG mit zwei ÄNGSJÖN-Hochschränken in Eichenachbildung. Die Vergleichsoptionen dieser vier Räume sind aus der Galerie entfernt. Die zusätzliche Detailansicht der schwarzen Spüle bleibt erhalten. Insgesamt 132 Ansichten.
+
+## Stand 95 · Familienbad: Nischenmöbel und Duschglas
+
+METOD-Korpusse 60 × 60 × 80 und 60 × 60 × 40 cm hinten in der Nische, weiße VEDDINGE-Fronten: zwei 30 × 80 cm Flügel unten und eine horizontale 60 × 40 cm Front oben. Miele Guard M1 in Weiß davor. Ansichten mit geöffneten Fronten und herausgezogenen Vorratsauszügen ohne Staubsauger ergänzt. Oberer Auszug schmaler auf Distanzmontage wegen Klappenbeschlägen; Beschlagmontage und Öffnungsbegrenzung sind Planungsdetails, keine bestätigte IKEA-Systemkombination. Duschverglasung mit fester Scheibe und Tür gemäß Grundriss. Nur Familienbad und OG-Übersichten neu gerendert. Insgesamt 136 Ansichten.
+
+## Stand 96 · VOXTORP in der Badnische
+
+VOXTORP mattweiß, 60 × 80 und 60 × 40 cm, beide seitlich zur niedrigen Wand öffnend. Oben Einlegeboden mit Handtüchern und Vorräten statt Klappe und schmalem Auszug. Unten drei Innenauszüge mit Distanzmontage. 90° offene Türen stehen etwa 11 cm aus der Nische hervor. Beschlagmontage vor Ort prüfen. Nur Familienbad und OG-Übersichten aktualisiert.

@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 96,
   "date": "2026-10-25",
   "rooms": [
     {
@@ -154,7 +154,7 @@
       "id": "bad-og",
       "title": "Familienbad",
       "floor": "OG",
-      "summary": "Familienbad mit zwei 40 cm breiten ÄNGSJÖN-Hochschränken an der Duschrückwand.",
+      "summary": "Familienbad mit zwei ÄNGSJÖN-Hochschränken, Duschverglasung und METOD-Vorratsschrank in der Nische.",
       "facts": [
         "IKEA ÄNGSJÖN in Eichenachbildung: 35 cm tief, 195 cm hoch",
         "zwei 40-cm-Schränke; 10 cm Abstand zur Wand neben der Tür",
@@ -162,7 +162,11 @@
         "Zwischen den Schränken 4 mm Fuge; Türschwenkbereich frei",
         "Dusche, Waschbecken, Wanne, Fenster, WC und Nische in ergänzenden Perspektiven",
         "Zusätzliche orthografische Draufsicht zur Raumaufteilung",
-        "Wandfliesen in hellem Greige, Bodenfliesen in dunklerem Greige"
+        "Wandfliesen in hellem Greige, Bodenfliesen in dunklerem Greige",
+        "Duschverglasung: klares Glas, festes Teil und Tür entsprechend dem Grundriss",
+        "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP mattweiß, je eine 60 cm breite Tür zur niedrigeren Wand öffnend",
+        "Nischenlösung: oben Einlegeboden mit Handtüchern und Badvorräten; unten drei Innenauszüge mit seitlichen Distanzstücken",
+        "Nischenlösung: weißer Miele davor; offene Ansichten ohne Staubsauger. Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen"
       ]
     },
     {
@@ -1242,6 +1246,38 @@
       "room": "kueche",
       "title": "Spüle und Armatur · Detail",
       "lens": 43,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-nische-13",
+      "room": "bad-og",
+      "title": "Nische · METOD geschlossen und Miele davor",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-nische-14",
+      "room": "bad-og",
+      "title": "Nische · offene Fronten und ausgezogene Vorräte",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-nische-15",
+      "room": "bad-og",
+      "title": "Nische · Zugang bei geöffnetem Schrank",
+      "lens": 21,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-nische-16",
+      "room": "bad-og",
+      "title": "Dusche · Glastür und festes Seitenteil",
+      "lens": 23,
       "projection": "perspective",
       "variant": "standard"
     }
