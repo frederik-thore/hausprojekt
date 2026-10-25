@@ -87,3 +87,10 @@ Je eine IKEA DEJSA 904.049.83 auf beiden BJÖRKSNÄS-Nachttischen: beige/opalwei
 
 ## Stand 92 – Flurbank und Treppenstufen
 LAMO LSB Simple in Schwarz/Rustikal, 120 × 30 × 47 cm mit 40-mm-Holzplatte. Treppe: 40 mm Grundstufe und nur an der Vorderkante eine untergeklebte Leiste mit 40 × 40 mm Querschnitt; Gesamtstärke vorne 80 mm. Trittflächenhöhen unverändert.
+
+
+## Stand 93 · Materialvergleiche
+
+50 zusätzliche Ansichten: KILSVIKEN graubeige mit SALLSJÖN stahlfarben, weiße Hochglanz-Wandfliesen in beiden Bädern sowie zwei ÄNGSJÖN-Hochschränke in Hochglanz-Weiß im OG (auch mit weißen Fliesen kombinierbar). Bestehende Ausführungen bleiben Standard. Vergleichsansichten verwenden identische Kameras; Wandfliesenflächen und 30 × 60 cm Fugenraster bleiben erhalten.
+
+Referenzen: IKEA KILSVIKEN 606.078.78, SALLSJÖN 706.009.04, ÄNGSJÖN 405.350.81 und bereitgestelltes Fliesenfoto.

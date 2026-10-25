@@ -1,5 +1,5 @@
 window.HOUSE_DATA = {
-  "version": 92,
+  "version": 93,
   "date": "2026-10-25",
   "rooms": [
     {
@@ -34,7 +34,8 @@ window.HOUSE_DATA = {
       "facts": [
         "Küchenaufteilung nach dem vorhandenen Planungsmodell",
         "Fliesenspiegel und Arbeitsflächen im aktuellen Materialstand",
-        "Bodenfliesen 30 × 60 cm"
+        "Bodenfliesen 30 × 60 cm",
+        "Vergleich: KILSVIKEN graubeige mit SALLSJÖN stahlfarben"
       ]
     },
     {
@@ -77,7 +78,8 @@ window.HOUSE_DATA = {
       "facts": [
         "VIGOUR derby V3",
         "Duschabtrennung an der 100-cm-Seite",
-        "Fliesen und Beleuchtung nach aktuellem Modell"
+        "Fliesen und Beleuchtung nach aktuellem Modell",
+        "Wählbare Wandfliesen: bisheriger Stand oder Weiß hochglänzend"
       ]
     },
     {
@@ -159,7 +161,8 @@ window.HOUSE_DATA = {
         "Wandhängend an der Eingangsseite der Duschrückwand; 20 cm Bodenfreiheit als Planungshöhe",
         "Zwischen den Schränken 4 mm Fuge; Türschwenkbereich frei",
         "Dusche, Waschbecken, Wanne, Fenster, WC und Nische in ergänzenden Perspektiven",
-        "Zusätzliche orthografische Draufsicht zur Raumaufteilung"
+        "Zusätzliche orthografische Draufsicht zur Raumaufteilung",
+        "Vergleich: zwei weiße ÄNGSJÖN-Hochschränke und weiße Hochglanz-Wandfliesen, einzeln oder kombiniert"
       ]
     },
     {
@@ -1489,6 +1492,406 @@ window.HOUSE_DATA = {
       "lens": 18,
       "projection": "perspective",
       "variant": "apollo-raketen-rund"
+    },
+    {
+      "id": "kueche-graubeige-metall-01",
+      "room": "kueche",
+      "title": "Küche · Übersicht",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-graubeige-metall-02",
+      "room": "kueche",
+      "title": "Küche · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-graubeige-metall-03",
+      "room": "kueche",
+      "title": "Insel und Essplatz",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-graubeige-metall-04",
+      "room": "kueche",
+      "title": "Spülbereich",
+      "lens": 28.0,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-graubeige-metall-05",
+      "room": "kueche",
+      "title": "Küche im Zusammenhang mit dem Essbereich",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-graubeige-metall-06",
+      "room": "kueche",
+      "title": "Kochinsel",
+      "lens": 26.0,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-01",
+      "room": "bad-eg",
+      "title": "Duschbad · Übersicht",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-02",
+      "room": "bad-eg",
+      "title": "Waschtisch",
+      "lens": 32.0,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-03",
+      "room": "bad-eg",
+      "title": "Dusche",
+      "lens": 20.0,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-04",
+      "room": "bad-eg",
+      "title": "Boden und Wand",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-05",
+      "room": "bad-eg",
+      "title": "Duschbad · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-eg-weisse-fliesen-06",
+      "room": "bad-eg",
+      "title": "Duschbad · gesamte Raumaufteilung",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-schraenke-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-schraenke"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weisse-fliesen-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weisse-fliesen"
+    },
+    {
+      "id": "bad-og-weiss-komplett-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "bad-og-weiss-komplett-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "weiss-komplett"
+    },
+    {
+      "id": "kueche-graubeige-metall-07",
+      "room": "kueche",
+      "title": "Spüle und Armatur · Materialvergleich",
+      "lens": 43,
+      "projection": "perspective",
+      "variant": "graubeige-metall"
+    },
+    {
+      "id": "kueche-standard-07",
+      "room": "kueche",
+      "title": "Spüle und Armatur · Materialvergleich",
+      "lens": 43,
+      "projection": "perspective",
+      "variant": "standard"
     }
   ]
 };
