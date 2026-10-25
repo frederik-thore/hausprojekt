@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 136 Ansichten. Planungsstand 96 vom 25. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 171 Ansichten. Planungsstand 97 vom 25. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -100,3 +100,7 @@ METOD-Korpusse 60 × 60 × 80 und 60 × 60 × 40 cm hinten in der Nische, weiße
 ## Stand 96 · VOXTORP in der Badnische
 
 VOXTORP mattweiß, 60 × 80 und 60 × 40 cm, beide seitlich zur niedrigen Wand öffnend. Oben Einlegeboden mit Handtüchern und Vorräten statt Klappe und schmalem Auszug. Unten drei Innenauszüge mit Distanzmontage. 90° offene Türen stehen etwa 11 cm aus der Nische hervor. Beschlagmontage vor Ort prüfen. Nur Familienbad und OG-Übersichten aktualisiert.
+
+## Stand 97 · Staubsauger, Wäschekorb und Frontfarben
+
+Miele Guard M1 in aufrechter Parkposition nach Nutzerfotos, mit geformtem Gehäuse, Tragegriff, Fugen, Lüftungsgitter, Schlauch und seitlich geparkter Teleskopstange samt Bodendüse. BRANÄS Rattan 41 × 41 × 60 cm in der 50-cm-Nische zwischen WC und Wanne. VOXTORP Weiß bleibt Standard, Eiche und Dunkelgrau als direkt vergleichbare Varianten. Je 17 Badansichten; nur Familienbad und OG-Übersichten aktualisiert.

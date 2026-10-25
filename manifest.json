@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "date": "2026-10-25",
   "rooms": [
     {
@@ -164,9 +164,11 @@
         "Zusätzliche orthografische Draufsicht zur Raumaufteilung",
         "Wandfliesen in hellem Greige, Bodenfliesen in dunklerem Greige",
         "Duschverglasung: klares Glas, festes Teil und Tür entsprechend dem Grundriss",
-        "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP mattweiß, je eine 60 cm breite Tür zur niedrigeren Wand öffnend",
+        "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP weiß als Standard, Eichenachbildung und Dunkelgrau als Alternativen. Beide Türen öffnen zur niedrigeren Wand",
         "Nischenlösung: oben Einlegeboden mit Handtüchern und Badvorräten; unten drei Innenauszüge mit seitlichen Distanzstücken",
-        "Nischenlösung: weißer Miele davor; offene Ansichten ohne Staubsauger. Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen"
+        "Nischenlösung: weißer Miele Guard M1 aufrecht mit angeschlossenem Schlauch und seitlich geparktem Rohr; offene Ansichten ohne Staubsauger",
+        "Nischenlösung: Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen",
+        "Wäschekorb: BRANÄS Rattan 41 × 41 × 60 cm in der Nische zwischen WC und Badewanne"
       ]
     },
     {
@@ -282,6 +284,222 @@
       "variant": "standard"
     },
     {
+      "id": "wohnen-standard-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-standard-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "wohnen-ein-sessel-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-ein-sessel-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "ein-sessel"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-01",
+      "room": "wohnen",
+      "title": "Wohnzimmer · Sitzgruppe im Raum",
+      "lens": 24.0,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-02",
+      "room": "wohnen",
+      "title": "Vom Essbereich zur Sitzgruppe",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-03",
+      "room": "wohnen",
+      "title": "Vom Wohnbereich durch den gesamten Raum",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-06",
+      "room": "wohnen",
+      "title": "Wohnbereich und Übergang zur Terrasse",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-08",
+      "room": "wohnen",
+      "title": "Wohnen und Essen · Draufsicht",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-10",
+      "room": "wohnen",
+      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-11",
+      "room": "wohnen",
+      "title": "Von der Terrasse · Sessel und Essplatz",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-12",
+      "room": "wohnen",
+      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
+      "lens": 50,
+      "projection": "orthographic",
+      "variant": "zwei-sessel-nah"
+    },
+    {
+      "id": "wohnen-zwei-sessel-nah-13",
+      "room": "wohnen",
+      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "zwei-sessel-nah"
+    },
+    {
       "id": "kueche-standard-01",
       "room": "kueche",
       "title": "Küche · Übersicht",
@@ -326,6 +544,14 @@
       "room": "kueche",
       "title": "Kochinsel",
       "lens": 26.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "kueche-standard-07",
+      "room": "kueche",
+      "title": "Spüle und Armatur · Detail",
+      "lens": 43,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -390,6 +616,94 @@
       "room": "flur-eg",
       "title": "Treppe · Aufstieg",
       "lens": 14.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-09",
+      "room": "flur-eg",
+      "title": "AVINA · Mäntel neben dem HWR",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-eg-standard-10",
+      "room": "flur-eg",
+      "title": "Schuhablage und freie Laufwege",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-01",
+      "room": "hwr",
+      "title": "HWR · Blick vom Eingang",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-02",
+      "room": "hwr",
+      "title": "IKEA-Zeile und Siemens-Waschturm",
+      "lens": 19.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-03",
+      "room": "hwr",
+      "title": "Vaillant uniTOWER in der WP-Nische",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-04",
+      "room": "hwr",
+      "title": "Technikwand · Speicher, Wechselrichter und HA",
+      "lens": 16,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-05",
+      "room": "hwr",
+      "title": "HWR · Übersicht im Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-06",
+      "room": "hwr",
+      "title": "Waschturm und neue HAVSTORP-Fronten",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-07",
+      "room": "hwr",
+      "title": "HWR · Aufteilung nach Hausplan",
+      "lens": 50.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-08",
+      "room": "hwr",
+      "title": "HA-Ecke und Haustechnik im Raum",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "hwr-standard-09",
+      "room": "hwr",
+      "title": "Vom Hausanschluss zum Eingang",
+      "lens": 18,
       "projection": "perspective",
       "variant": "standard"
     },
@@ -674,78 +988,6 @@
       "variant": "standard"
     },
     {
-      "id": "flur-og-standard-01",
-      "room": "flur-og",
-      "title": "Flur · Übersicht",
-      "lens": 22.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "flur-og-standard-02",
-      "room": "flur-og",
-      "title": "Flur · Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "flur-og-standard-03",
-      "room": "flur-og",
-      "title": "Treppenankunft",
-      "lens": 25.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "flur-og-standard-04",
-      "room": "flur-og",
-      "title": "Blick die Treppe hinunter",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "flur-og-standard-05",
-      "room": "flur-og",
-      "title": "Galerie und Übergang zu den Zimmern",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "grundrisse-standard-01",
-      "room": "grundrisse",
-      "title": "Erdgeschoss · Grundriss",
-      "lens": 24.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "grundrisse-standard-02",
-      "room": "grundrisse",
-      "title": "Obergeschoss · Grundriss",
-      "lens": 24.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "grundrisse-standard-03",
-      "room": "grundrisse",
-      "title": "Erdgeschoss · räumliche Übersicht",
-      "lens": 24.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "grundrisse-standard-04",
-      "room": "grundrisse",
-      "title": "Obergeschoss · räumliche Übersicht",
-      "lens": 24.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
       "id": "schlafen-v4-01",
       "room": "schlafen",
       "title": "Vom Eingang · Weitwinkel",
@@ -938,318 +1180,6 @@
       "variant": "standard"
     },
     {
-      "id": "hwr-standard-01",
-      "room": "hwr",
-      "title": "HWR · Blick vom Eingang",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-02",
-      "room": "hwr",
-      "title": "IKEA-Zeile und Siemens-Waschturm",
-      "lens": 19.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-03",
-      "room": "hwr",
-      "title": "Vaillant uniTOWER in der WP-Nische",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-04",
-      "room": "hwr",
-      "title": "Technikwand · Speicher, Wechselrichter und HA",
-      "lens": 16,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-05",
-      "room": "hwr",
-      "title": "HWR · Übersicht im Weitwinkel",
-      "lens": 18.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-06",
-      "room": "hwr",
-      "title": "Waschturm und neue HAVSTORP-Fronten",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-07",
-      "room": "hwr",
-      "title": "HWR · Aufteilung nach Hausplan",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-08",
-      "room": "hwr",
-      "title": "HA-Ecke und Haustechnik im Raum",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "hwr-standard-09",
-      "room": "hwr",
-      "title": "Vom Hausanschluss zum Eingang",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-01",
-      "room": "wohnen",
-      "title": "Wohnzimmer · Sitzgruppe im Raum",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-02",
-      "room": "wohnen",
-      "title": "Vom Essbereich zur Sitzgruppe",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-03",
-      "room": "wohnen",
-      "title": "Vom Wohnbereich durch den gesamten Raum",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-06",
-      "room": "wohnen",
-      "title": "Wohnbereich und Übergang zur Terrasse",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-08",
-      "room": "wohnen",
-      "title": "Wohnen und Essen · Draufsicht",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-10",
-      "room": "wohnen",
-      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-11",
-      "room": "wohnen",
-      "title": "Von der Terrasse · Sessel und Essplatz",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-12",
-      "room": "wohnen",
-      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
-      "lens": 50,
-      "projection": "orthographic",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-standard-13",
-      "room": "wohnen",
-      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
-      "lens": 25,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "wohnen-ein-sessel-01",
-      "room": "wohnen",
-      "title": "Wohnzimmer · Sitzgruppe im Raum",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-02",
-      "room": "wohnen",
-      "title": "Vom Essbereich zur Sitzgruppe",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-03",
-      "room": "wohnen",
-      "title": "Vom Wohnbereich durch den gesamten Raum",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-06",
-      "room": "wohnen",
-      "title": "Wohnbereich und Übergang zur Terrasse",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-08",
-      "room": "wohnen",
-      "title": "Wohnen und Essen · Draufsicht",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-10",
-      "room": "wohnen",
-      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-11",
-      "room": "wohnen",
-      "title": "Von der Terrasse · Sessel und Essplatz",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-12",
-      "room": "wohnen",
-      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
-      "lens": 50,
-      "projection": "orthographic",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-ein-sessel-13",
-      "room": "wohnen",
-      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
-      "lens": 25,
-      "projection": "perspective",
-      "variant": "ein-sessel"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-01",
-      "room": "wohnen",
-      "title": "Wohnzimmer · Sitzgruppe im Raum",
-      "lens": 24.0,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-02",
-      "room": "wohnen",
-      "title": "Vom Essbereich zur Sitzgruppe",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-03",
-      "room": "wohnen",
-      "title": "Vom Wohnbereich durch den gesamten Raum",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-06",
-      "room": "wohnen",
-      "title": "Wohnbereich und Übergang zur Terrasse",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-08",
-      "room": "wohnen",
-      "title": "Wohnen und Essen · Draufsicht",
-      "lens": 50.0,
-      "projection": "orthographic",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-10",
-      "room": "wohnen",
-      "title": "Vom Flureingang · Zugang zur Sitzgruppe",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-11",
-      "room": "wohnen",
-      "title": "Von der Terrasse · Sessel und Essplatz",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-12",
-      "room": "wohnen",
-      "title": "Sitzgruppe · Draufsicht zum Wege-Vergleich",
-      "lens": 50,
-      "projection": "orthographic",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "wohnen-zwei-sessel-nah-13",
-      "room": "wohnen",
-      "title": "Sitzgruppe und Essplatz · räumlicher Überblick",
-      "lens": 25,
-      "projection": "perspective",
-      "variant": "zwei-sessel-nah"
-    },
-    {
-      "id": "flur-eg-standard-09",
-      "room": "flur-eg",
-      "title": "AVINA · Mäntel neben dem HWR",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "flur-eg-standard-10",
-      "room": "flur-eg",
-      "title": "Schuhablage und freie Laufwege",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
-      "id": "kueche-standard-07",
-      "room": "kueche",
-      "title": "Spüle und Armatur · Detail",
-      "lens": 43,
-      "projection": "perspective",
-      "variant": "standard"
-    },
-    {
       "id": "bad-og-nische-13",
       "room": "bad-og",
       "title": "Nische · METOD geschlossen und Miele davor",
@@ -1279,6 +1209,358 @@
       "title": "Dusche · Glastür und festes Seitenteil",
       "lens": 23,
       "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-nische-17",
+      "room": "bad-og",
+      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
+      "lens": 31,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-13",
+      "room": "bad-og",
+      "title": "Nische · METOD geschlossen und Miele davor",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-14",
+      "room": "bad-og",
+      "title": "Nische · offene Fronten und ausgezogene Vorräte",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-15",
+      "room": "bad-og",
+      "title": "Nische · Zugang bei geöffnetem Schrank",
+      "lens": 21,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-16",
+      "room": "bad-og",
+      "title": "Dusche · Glastür und festes Seitenteil",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-eiche-17",
+      "room": "bad-og",
+      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
+      "lens": 31,
+      "projection": "perspective",
+      "variant": "voxtorp-eiche"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-13",
+      "room": "bad-og",
+      "title": "Nische · METOD geschlossen und Miele davor",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-14",
+      "room": "bad-og",
+      "title": "Nische · offene Fronten und ausgezogene Vorräte",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-15",
+      "room": "bad-og",
+      "title": "Nische · Zugang bei geöffnetem Schrank",
+      "lens": 21,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-16",
+      "room": "bad-og",
+      "title": "Dusche · Glastür und festes Seitenteil",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "bad-og-voxtorp-grau-17",
+      "room": "bad-og",
+      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
+      "lens": 31,
+      "projection": "perspective",
+      "variant": "voxtorp-grau"
+    },
+    {
+      "id": "flur-og-standard-01",
+      "room": "flur-og",
+      "title": "Flur · Übersicht",
+      "lens": 22.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-02",
+      "room": "flur-og",
+      "title": "Flur · Weitwinkel",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-03",
+      "room": "flur-og",
+      "title": "Treppenankunft",
+      "lens": 25.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-04",
+      "room": "flur-og",
+      "title": "Blick die Treppe hinunter",
+      "lens": 18.0,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "flur-og-standard-05",
+      "room": "flur-og",
+      "title": "Galerie und Übergang zu den Zimmern",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-01",
+      "room": "grundrisse",
+      "title": "Erdgeschoss · Grundriss",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-02",
+      "room": "grundrisse",
+      "title": "Obergeschoss · Grundriss",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-03",
+      "room": "grundrisse",
+      "title": "Erdgeschoss · räumliche Übersicht",
+      "lens": 24.0,
+      "projection": "orthographic",
+      "variant": "standard"
+    },
+    {
+      "id": "grundrisse-standard-04",
+      "room": "grundrisse",
+      "title": "Obergeschoss · räumliche Übersicht",
+      "lens": 24.0,
+      "projection": "orthographic",
       "variant": "standard"
     }
   ]
