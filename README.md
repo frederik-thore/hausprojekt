@@ -89,8 +89,6 @@ Je eine IKEA DEJSA 904.049.83 auf beiden BJÖRKSNÄS-Nachttischen: beige/opalwei
 LAMO LSB Simple in Schwarz/Rustikal, 120 × 30 × 47 cm mit 40-mm-Holzplatte. Treppe: 40 mm Grundstufe und nur an der Vorderkante eine untergeklebte Leiste mit 40 × 40 mm Querschnitt; Gesamtstärke vorne 80 mm. Trittflächenhöhen unverändert.
 
 
-## Stand 93 · Materialvergleiche
+## Stand 94 · Ausgangsvarianten festgelegt
 
-50 zusätzliche Ansichten: KILSVIKEN graubeige mit SALLSJÖN stahlfarben, weiße Hochglanz-Wandfliesen in beiden Bädern sowie zwei ÄNGSJÖN-Hochschränke in Hochglanz-Weiß im OG (auch mit weißen Fliesen kombinierbar). Bestehende Ausführungen bleiben Standard. Vergleichsansichten verwenden identische Kameras; Wandfliesenflächen und 30 × 60 cm Fugenraster bleiben erhalten.
-
-Referenzen: IKEA KILSVIKEN 606.078.78, SALLSJÖN 706.009.04, ÄNGSJÖN 405.350.81 und bereitgestelltes Fliesenfoto.
+Henriks Zimmer bleibt bei LINUS Cream Ø 150 cm. Küche: schwarze KILSVIKEN und schwarze SALLSJÖN. Beide Bäder: bisherige Wand- und Bodenfliesen; OG mit zwei ÄNGSJÖN-Hochschränken in Eichenachbildung. Die Vergleichsoptionen dieser vier Räume sind aus der Galerie entfernt. Die zusätzliche Detailansicht der schwarzen Spüle bleibt erhalten. Insgesamt 132 Ansichten.
