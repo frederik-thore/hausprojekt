@@ -1,6 +1,6 @@
 {
-  "version": 97,
-  "date": "2026-10-25",
+  "version": 99,
+  "date": "2026-10-26",
   "rooms": [
     {
       "id": "aussen",
@@ -122,13 +122,14 @@
         "PLATSA mit FONNES: 60 × 42 × 181 cm",
         "Roter STUVA und rote Kiste bleiben erhalten",
         "KALLAX 4 × 2 mit HOLMARED-Holzarbeitsplatte",
-        "TROTTEN elektrisch: 120 × 70 cm, dargestellt auf 71 cm Höhe",
+        "TROTTEN elektrisch: Eschenachbildung/weiß, 120 × 70 cm, dargestellt auf 71 cm Höhe",
         "RÅSKOG weiß: 35 × 45 × 77 cm, rechts am Schreibtisch",
         "Benuta ALLY lila: 120 × 170 cm",
         "Interstuhl UPis1: violettes Sitzkissen mit dunkler Einfassung",
         "LENDA elfenbeinweiß, bodenlang an weißer Gardinenstange",
         "MacBook Neo in Rosa, mittig auf dem TROTTEN",
-        "GREJSIMOJS: drei gestapelte Bodenkissen vor dem KALLAX, Ø 58 / 45 / 32 cm"
+        "GREJSIMOJS: drei gestapelte Bodenkissen vor dem KALLAX, Ø 58 / 45 / 32 cm",
+        "Bettwand: MissPompadour Lila mit Lavendel, extramatt; digital nach Herstellerreferenz angenähert"
       ]
     },
     {
@@ -164,11 +165,16 @@
         "Zusätzliche orthografische Draufsicht zur Raumaufteilung",
         "Wandfliesen in hellem Greige, Bodenfliesen in dunklerem Greige",
         "Duschverglasung: klares Glas, festes Teil und Tür entsprechend dem Grundriss",
-        "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP weiß als Standard, Eichenachbildung und Dunkelgrau als Alternativen. Beide Türen öffnen zur niedrigeren Wand",
         "Nischenlösung: oben Einlegeboden mit Handtüchern und Badvorräten; unten drei Innenauszüge mit seitlichen Distanzstücken",
         "Nischenlösung: weißer Miele Guard M1 aufrecht mit angeschlossenem Schlauch und seitlich geparktem Rohr; offene Ansichten ohne Staubsauger",
         "Nischenlösung: Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen",
-        "Wäschekorb: BRANÄS Rattan 41 × 41 × 60 cm in der Nische zwischen WC und Badewanne"
+        "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP Eichenachbildung als festgelegte Ausführung. Beide Türen öffnen zur niedrigeren Wand",
+        "Spiegel: LINDBYN schwarz, 120 × 60 cm horizontal, mittig über dem Waschbecken",
+        "Handtuchhalter: SKOGSVIKEN schwarz, 60 × 10 cm, rechts neben dem Waschbecken",
+        "Wäschekorb: BRANÄS Rattan 41 × 41 × 60 cm auf der Seite zum Eingang/Heizkörper neben dem Waschbecken",
+        "Hocker: VILTO Badhocker Birke, 40 × 32 × 25 cm, neben der Badewanne",
+        "Duschvorleger: BACKMÅRA beige, 50 × 80 cm vor der Dusche",
+        "Vorhang: zwei DYTÅG Leinenschals weiß, je 145 × 250 cm, auf ca. 238 cm gekürzt; beide vollständig rechts zur Waschbeckenseite geparkt, weiße Deckenschiene"
       ]
     },
     {
@@ -1214,282 +1220,18 @@
     {
       "id": "bad-og-nische-17",
       "room": "bad-og",
-      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
-      "lens": 31,
+      "title": "Waschplatz · LINDBYN, SKOGSVIKEN und BRANÄS",
+      "lens": 25,
       "projection": "perspective",
       "variant": "standard"
     },
     {
-      "id": "bad-og-voxtorp-eiche-01",
+      "id": "bad-og-standard-18",
       "room": "bad-og",
-      "title": "Vom Eingang · Badübersicht",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-02",
-      "room": "bad-og",
-      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-03",
-      "room": "bad-og",
-      "title": "Vom Fenster · Schränke und Dusche",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-04",
-      "room": "bad-og",
-      "title": "Dusche · Blick in den Duschbereich",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-05",
-      "room": "bad-og",
-      "title": "Dusche · Armaturen und Zugang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-06",
-      "room": "bad-og",
-      "title": "Badewanne und Fenster",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-07",
-      "room": "bad-og",
-      "title": "Waschbecken und Fensterseite",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-08",
-      "room": "bad-og",
-      "title": "Toilette und Nische neben der Dusche",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-09",
-      "room": "bad-og",
-      "title": "Nische zwischen Toilette und Dusche",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-10",
-      "room": "bad-og",
-      "title": "Von der Badewanne zum Eingang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-11",
-      "room": "bad-og",
-      "title": "Bad · Anordnung in der Draufsicht",
-      "lens": 0,
-      "projection": "orthographic",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-12",
-      "room": "bad-og",
-      "title": "Dusche, WC und freie Raummitte",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-13",
-      "room": "bad-og",
-      "title": "Nische · METOD geschlossen und Miele davor",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-14",
-      "room": "bad-og",
-      "title": "Nische · offene Fronten und ausgezogene Vorräte",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-15",
-      "room": "bad-og",
-      "title": "Nische · Zugang bei geöffnetem Schrank",
-      "lens": 21,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-16",
-      "room": "bad-og",
-      "title": "Dusche · Glastür und festes Seitenteil",
+      "title": "Fenster · DYTÅG rechts geparkt und Waschplatz",
       "lens": 23,
       "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-eiche-17",
-      "room": "bad-og",
-      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
-      "lens": 31,
-      "projection": "perspective",
-      "variant": "voxtorp-eiche"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-01",
-      "room": "bad-og",
-      "title": "Vom Eingang · Badübersicht",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-02",
-      "room": "bad-og",
-      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
-      "lens": 18,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-03",
-      "room": "bad-og",
-      "title": "Vom Fenster · Schränke und Dusche",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-04",
-      "room": "bad-og",
-      "title": "Dusche · Blick in den Duschbereich",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-05",
-      "room": "bad-og",
-      "title": "Dusche · Armaturen und Zugang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-06",
-      "room": "bad-og",
-      "title": "Badewanne und Fenster",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-07",
-      "room": "bad-og",
-      "title": "Waschbecken und Fensterseite",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-08",
-      "room": "bad-og",
-      "title": "Toilette und Nische neben der Dusche",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-09",
-      "room": "bad-og",
-      "title": "Nische zwischen Toilette und Dusche",
-      "lens": 22,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-10",
-      "room": "bad-og",
-      "title": "Von der Badewanne zum Eingang",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-11",
-      "room": "bad-og",
-      "title": "Bad · Anordnung in der Draufsicht",
-      "lens": 0,
-      "projection": "orthographic",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-12",
-      "room": "bad-og",
-      "title": "Dusche, WC und freie Raummitte",
-      "lens": 20,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-13",
-      "room": "bad-og",
-      "title": "Nische · METOD geschlossen und Miele davor",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-14",
-      "room": "bad-og",
-      "title": "Nische · offene Fronten und ausgezogene Vorräte",
-      "lens": 24,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-15",
-      "room": "bad-og",
-      "title": "Nische · Zugang bei geöffnetem Schrank",
-      "lens": 21,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-16",
-      "room": "bad-og",
-      "title": "Dusche · Glastür und festes Seitenteil",
-      "lens": 23,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
-    },
-    {
-      "id": "bad-og-voxtorp-grau-17",
-      "room": "bad-og",
-      "title": "BRANÄS · Wäschekorb zwischen Wanne und WC",
-      "lens": 31,
-      "projection": "perspective",
-      "variant": "voxtorp-grau"
+      "variant": "standard"
     },
     {
       "id": "flur-og-standard-01",

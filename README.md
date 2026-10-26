@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 171 Ansichten. Planungsstand 97 vom 25. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 138 Ansichten. Planungsstand 99 vom 26. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -104,3 +104,11 @@ VOXTORP mattweiß, 60 × 80 und 60 × 40 cm, beide seitlich zur niedrigen Wand �
 ## Stand 97 · Staubsauger, Wäschekorb und Frontfarben
 
 Miele Guard M1 in aufrechter Parkposition nach Nutzerfotos, mit geformtem Gehäuse, Tragegriff, Fugen, Lüftungsgitter, Schlauch und seitlich geparkter Teleskopstange samt Bodendüse. BRANÄS Rattan 41 × 41 × 60 cm in der 50-cm-Nische zwischen WC und Wanne. VOXTORP Weiß bleibt Standard, Eiche und Dunkelgrau als direkt vergleichbare Varianten. Je 17 Badansichten; nur Familienbad und OG-Übersichten aktualisiert.
+
+## Stand 98 · Frejas Eschenplatte und Lavendelwand
+
+TROTTEN elektrisch mit Eschenachbildung/weiß, 120 × 70 cm (Tischplatte 906.134.44). Nur die raumseitige Fläche der Wand hinter dem Kopfteil erhält MissPompadour Lila mit Lavendel; Farbton digital anhand des offiziellen Farbfotos angenähert. Dachschräge und übrige Wände bleiben weiß. Sieben Ansichten von Frejas Zimmer und zwei OG-Übersichten aktualisiert.
+
+## Stand 99 · Familienbad
+
+VOXTORP Eichenachbildung als einzige Nischenfront. LINDBYN 120 × 60 cm horizontal, SKOGSVIKEN schwarz auf der Fensterseite, BRANÄS auf der Seite zum Eingang/Heizkörper. VILTO Badhocker Birke 40 × 32 × 25 cm neben der Wanne und BACKMÅRA 50 × 80 cm vor der Dusche. Zwei DYTÅG-Schals weiß an weißer Deckenschiene, rechts geparkt und bodennah gekürzt. 18 Badansichten und zwei OG-Übersichten aktualisiert. Frejas Änderungen aus Stand 98 bleiben enthalten.
