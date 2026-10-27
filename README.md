@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 138 Ansichten. Planungsstand 99 vom 26. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 138 Ansichten. Planungsstand 100 vom 27. Oktober 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -112,3 +112,7 @@ TROTTEN elektrisch mit Eschenachbildung/weiß, 120 × 70 cm (Tischplatte 906.134
 ## Stand 99 · Familienbad
 
 VOXTORP Eichenachbildung als einzige Nischenfront. LINDBYN 120 × 60 cm horizontal, SKOGSVIKEN schwarz auf der Fensterseite, BRANÄS auf der Seite zum Eingang/Heizkörper. VILTO Badhocker Birke 40 × 32 × 25 cm neben der Wanne und BACKMÅRA 50 × 80 cm vor der Dusche. Zwei DYTÅG-Schals weiß an weißer Deckenschiene, rechts geparkt und bodennah gekürzt. 18 Badansichten und zwei OG-Übersichten aktualisiert. Frejas Änderungen aus Stand 98 bleiben enthalten.
+
+## Stand 100 · Badpositionen verfeinert
+
+VILTO steht hinten in der Nische zwischen Badewanne und WC, mit seitlich jeweils 5 cm Abstand und ca. 7 cm Abstand zur Rückwand. SKOGSVIKEN von ca. 115 cm auf 105 cm über dem Boden abgesenkt. Nur Familienbad und beide OG-Übersichten neu gerendert.

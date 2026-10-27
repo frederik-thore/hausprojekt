@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 99,
-  "date": "2026-10-26",
+  "version": 100,
+  "date": "2026-10-27",
   "rooms": [
     {
       "id": "aussen",
@@ -170,9 +170,9 @@ window.HOUSE_DATA = {
         "Nischenlösung: Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen",
         "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP Eichenachbildung als festgelegte Ausführung. Beide Türen öffnen zur niedrigeren Wand",
         "Spiegel: LINDBYN schwarz, 120 × 60 cm horizontal, mittig über dem Waschbecken",
-        "Handtuchhalter: SKOGSVIKEN schwarz, 60 × 10 cm, rechts neben dem Waschbecken",
+        "Handtuchhalter: SKOGSVIKEN schwarz, 60 × 10 cm, rechts neben dem Waschbecken, auf 105 cm über dem Boden",
         "Wäschekorb: BRANÄS Rattan 41 × 41 × 60 cm auf der Seite zum Eingang/Heizkörper neben dem Waschbecken",
-        "Hocker: VILTO Badhocker Birke, 40 × 32 × 25 cm, neben der Badewanne",
+        "Hocker: VILTO Badhocker Birke, 40 × 32 × 25 cm, hinten in der Nische zwischen Wanne und WC; seitlich jeweils 5 cm Abstand",
         "Duschvorleger: BACKMÅRA beige, 50 × 80 cm vor der Dusche",
         "Vorhang: zwei DYTÅG Leinenschals weiß, je 145 × 250 cm, auf ca. 238 cm gekürzt; beide vollständig rechts zur Waschbeckenseite geparkt, weiße Deckenschiene"
       ]
