@@ -1,6 +1,6 @@
 window.HOUSE_DATA = {
-  "version": 103,
-  "date": "2026-10-28",
+  "version": 105,
+  "date": "2026-11-02",
   "rooms": [
     {
       "id": "aussen",

@@ -120,3 +120,7 @@ VILTO steht hinten in der Nische zwischen Badewanne und WC, mit seitlich jeweils
 ## Stand 103 · Gesamtabgleich der Galerie
 
 Alle 138 Ansichten einschließlich Alternativen gegen das aktuelle gemeinsame Modell geprüft. 15 veraltete bzw. abweichende Ansichten aktualisiert; vorhandene korrekte Bilder beibehalten. Aktualisiert: Flurdetails in Wohnzimmerbildern, Haustechnik im Hintergrund der EG-Bad-Draufsicht, Badblick aus dem Schlafzimmer und Tisch-/Stuhlstellung der Gästevariante. Die Produktübersicht bleibt erhalten.
+
+## Stand 105 · Wärmepumpe
+
+WP-Außeneinheit gemäß aktualisiertem Erdgeschossplan an die Südwestfassade links neben der Küchentür versetzt und um 90° gedreht. Sechs betroffene Außenansichten einschließlich Grundstücksübersicht aktualisiert. Separates Rohbaumodell unverändert.
