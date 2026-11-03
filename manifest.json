@@ -1,6 +1,6 @@
 {
-  "version": 105,
-  "date": "2026-11-02",
+  "version": 106,
+  "date": "2026-11-04",
   "rooms": [
     {
       "id": "aussen",
@@ -170,7 +170,7 @@
         "Nischenlösung: Türen bei 90° etwa 11 cm vor der Nische; Beschlag- und Auszugsmontage vor Ort prüfen",
         "Nische: METOD 60 × 60 × 80 + 60 × 60 × 40 cm hinten; VOXTORP Eichenachbildung als festgelegte Ausführung. Beide Türen öffnen zur niedrigeren Wand",
         "Spiegel: LINDBYN schwarz, 120 × 60 cm horizontal, mittig über dem Waschbecken",
-        "Handtuchhalter: SKOGSVIKEN schwarz, 60 × 10 cm, rechts neben dem Waschbecken, auf 105 cm über dem Boden",
+        "Handtuchhalter: MyWIRE ENNS schwarz, 52 × 22 × 82 cm, freistehend rechts neben dem Waschbecken; SKOGSVIKEN-Wandhalter als Alternative",
         "Wäschekorb: BRANÄS Rattan 41 × 41 × 60 cm auf der Seite zum Eingang/Heizkörper neben dem Waschbecken",
         "Hocker: VILTO Badhocker Birke, 40 × 32 × 25 cm, hinten in der Nische zwischen Wanne und WC; seitlich jeweils 5 cm Abstand",
         "Duschvorleger: BACKMÅRA beige, 50 × 80 cm vor der Dusche",
@@ -1220,7 +1220,7 @@
     {
       "id": "bad-og-nische-17",
       "room": "bad-og",
-      "title": "Waschplatz · LINDBYN, SKOGSVIKEN und BRANÄS",
+      "title": "Waschplatz · LINDBYN, ENNS und BRANÄS",
       "lens": 25,
       "projection": "perspective",
       "variant": "standard"
@@ -1304,6 +1304,150 @@
       "lens": 24.0,
       "projection": "orthographic",
       "variant": "standard"
+    },
+    {
+      "id": "bad-og-wandhalter-01",
+      "room": "bad-og",
+      "title": "Vom Eingang · Badübersicht",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-02",
+      "room": "bad-og",
+      "title": "Eingang und zwei ÄNGSJÖN-Hochschränke",
+      "lens": 18,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-03",
+      "room": "bad-og",
+      "title": "Vom Fenster · Schränke und Dusche",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-04",
+      "room": "bad-og",
+      "title": "Dusche · Blick in den Duschbereich",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-05",
+      "room": "bad-og",
+      "title": "Dusche · Armaturen und Zugang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-06",
+      "room": "bad-og",
+      "title": "Badewanne und Fenster",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-07",
+      "room": "bad-og",
+      "title": "Waschbecken und Fensterseite",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-08",
+      "room": "bad-og",
+      "title": "Toilette und Nische neben der Dusche",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-09",
+      "room": "bad-og",
+      "title": "Nische zwischen Toilette und Dusche",
+      "lens": 22,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-10",
+      "room": "bad-og",
+      "title": "Von der Badewanne zum Eingang",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-11",
+      "room": "bad-og",
+      "title": "Bad · Anordnung in der Draufsicht",
+      "lens": 0,
+      "projection": "orthographic",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-12",
+      "room": "bad-og",
+      "title": "Dusche, WC und freie Raummitte",
+      "lens": 20,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-13",
+      "room": "bad-og",
+      "title": "Nische · METOD geschlossen und Miele davor",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-14",
+      "room": "bad-og",
+      "title": "Nische · offene Fronten und ausgezogene Vorräte",
+      "lens": 24,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-15",
+      "room": "bad-og",
+      "title": "Nische · Zugang bei geöffnetem Schrank",
+      "lens": 21,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-16",
+      "room": "bad-og",
+      "title": "Dusche · Glastür und festes Seitenteil",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-17",
+      "room": "bad-og",
+      "title": "Waschplatz · LINDBYN, SKOGSVIKEN und BRANÄS",
+      "lens": 25,
+      "projection": "perspective",
+      "variant": "wandhalter"
+    },
+    {
+      "id": "bad-og-wandhalter-18",
+      "room": "bad-og",
+      "title": "Fenster · DYTÅG rechts geparkt und Waschplatz",
+      "lens": 23,
+      "projection": "perspective",
+      "variant": "wandhalter"
     }
   ]
 }

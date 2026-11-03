@@ -480,7 +480,7 @@ window.HOUSE_PRODUCTS = {
     },
     {
       "name": "IKEA SKOGSVIKEN",
-      "detail": "Handtuchstange, schwarz, 60 × 10 cm",
+      "detail": "Alternative: schwarzer Wandhandtuchhalter, 60 × 10 cm, 105 cm über Boden",
       "url": "https://www.ikea.com/de/de/p/skogsviken-handtuchstange-schwarz-60423822/"
     },
     {
@@ -502,6 +502,11 @@ window.HOUSE_PRODUCTS = {
       "name": "IKEA DYTÅG",
       "detail": "2 weiße Leinenschals, je 145 × 250 cm, gekürzt; weiße Deckenschiene",
       "url": "https://www.ikea.com/de/de/p/dytag-2-gardinenschals-weiss-mit-gardinenband-00466715/"
+    },
+    {
+      "name": "MyWIRE ENNS",
+      "detail": "Standard: freistehender Handtuchhalter schwarz, 52 × 22 × 82 cm; drei Stangen und zwei Haken",
+      "url": "https://mywire.at/products/enns-handtuchhalter-freistehend?variant=47711608144202"
     }
   ],
   "flur-og": [
