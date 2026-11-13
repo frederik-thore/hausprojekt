@@ -479,18 +479,13 @@ window.HOUSE_PRODUCTS = {
       "url": "https://www.ikea.com/de/de/p/lindbyn-spiegel-schwarz-30458610/"
     },
     {
-      "name": "IKEA SKOGSVIKEN",
-      "detail": "Alternative: schwarzer Wandhandtuchhalter, 60 × 10 cm, 105 cm über Boden",
-      "url": "https://www.ikea.com/de/de/p/skogsviken-handtuchstange-schwarz-60423822/"
-    },
-    {
       "name": "IKEA BRANÄS",
-      "detail": "Wäschekorb, Rattan, 41 × 41 × 60 cm",
+      "detail": "Rattan, 41 × 41 × 60 cm, in der Nische zwischen Badewanne und WC",
       "url": "https://www.ikea.com/de/de/p/branaes-waeschekorb-gefuettert-rattan-20214731/"
     },
     {
       "name": "IKEA VILTO",
-      "detail": "Badhocker, Birke, 40 × 32 × 25 cm",
+      "detail": "Birke, 40 × 32 × 25 cm, auf der Fensterseite neben dem Waschbecken",
       "url": "https://www.ikea.com/se/sv/p/vilto-badrumspall-bjoerk-60344453/"
     },
     {
@@ -505,7 +500,7 @@ window.HOUSE_PRODUCTS = {
     },
     {
       "name": "MyWIRE ENNS",
-      "detail": "Standard: freistehender Handtuchhalter schwarz, 52 × 22 × 82 cm; drei Stangen und zwei Haken",
+      "detail": "Standard: freistehend schwarz, 52 × 22 × 82 cm, schräg vor dem Fenster nahe der Badewanne",
       "url": "https://mywire.at/products/enns-handtuchhalter-freistehend?variant=47711608144202"
     }
   ],

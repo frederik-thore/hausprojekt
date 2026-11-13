@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 156 Ansichten. Planungsstand 106 vom 4. November 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 156 Ansichten. Planungsstand 108 vom 13. November 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -128,3 +128,7 @@ WP-Außeneinheit gemäß aktualisiertem Erdgeschossplan an die Südwestfassade l
 ## Stand 106 · ENNS im Familienbad
 
 MyWIRE ENNS schwarz als Standard rechts neben dem Waschbecken. SKOGSVIKEN bleibt als umschaltbare Alternative mit denselben 18 Perspektiven erhalten. Familienbad und zwei OG-Übersichten neu gerendert. Gemeinsames Modell enthält beide Varianten, WP-Position aus Stand 105 bleibt erhalten.
+
+## Stand 108 · Familienbad nach Skizze
+
+BRANÄS in die Nische zwischen Wanne und WC, VILTO auf die Fensterseite neben das Waschbecken und ENNS schräg vor das Fenster nahe der Wanne verschoben. Badansichten und OG-Übersichten aktualisiert; Wandhalter-Alternative entfernt.
