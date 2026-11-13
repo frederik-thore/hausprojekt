@@ -2,7 +2,7 @@
 
 Öffentliche Übersicht: https://frederik-thore.github.io/hausprojekt/
 
-13 Bereiche, 156 Ansichten. Planungsstand 108 vom 13. November 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
+13 Bereiche, 156 Ansichten. Planungsstand 109 vom 13. November 2026. Das Arbeitszimmer enthält die Varianten Alltag mit Concept2 und Gäste mit 140 × 200 cm Bett, erhöhtem Tisch und eingeschobenem Stuhl.
 
 ## Nutzung
 
@@ -132,3 +132,7 @@ MyWIRE ENNS schwarz als Standard rechts neben dem Waschbecken. SKOGSVIKEN bleibt
 ## Stand 108 · Familienbad nach Skizze
 
 BRANÄS in die Nische zwischen Wanne und WC, VILTO auf die Fensterseite neben das Waschbecken und ENNS schräg vor das Fenster nahe der Wanne verschoben. Badansichten und OG-Übersichten aktualisiert; Wandhalter-Alternative entfernt.
+
+## Stand 109 · Handtuchhalter gedreht
+
+ENNS an derselben Position um 90 Grad gedreht. Badansichten und OG-Übersichten aktualisiert.
